@@ -1,0 +1,5 @@
+- Scrivere post e aggiungere contenuto! (Sia una breve presentazione che gli appunti)
+- Aggiungere colonna "note" per gli appunti, e dividere per corso in modo carino
+- Verificare robustezza ordering date, aggiungere colonna "Giorno", oppure stamparlo nella data
+
+- Importare appunti vecchi dall'altro sito e riorganizzare
