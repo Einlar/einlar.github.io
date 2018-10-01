@@ -1,5 +1,7 @@
 - Scrivere post e aggiungere contenuto! (Sia una breve presentazione che gli appunti)
 - Aggiungere colonna "note" per gli appunti, e dividere per corso in modo carino
 - Verificare robustezza ordering date, aggiungere colonna "Giorno", oppure stamparlo nella data
+- BUG - Nella pagina "blog.html" pare non vengano importati i file js della navbar, che quindi scompare senza mai più ricomparire! Fix it!
+
 
 - Importare appunti vecchi dall'altro sito e riorganizzare
