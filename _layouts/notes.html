@@ -1,0 +1,22 @@
+---
+layout: default
+tabella: true
+---
+{%- assign _appunti = site.appunti | sort: 'order' -%}
+{%- include header.html scrolly_nav=_appunti -%}
+
+
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js" defer></script>
+  
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Sections -->
+	{%- for _section in _appunti -%}
+		{%- include section.html title=_section.title photo=_section.cover-photo photo-alt=_section.cover-photo-alt auto-header=_section.auto-header content=_section.content -%}
+	{%- endfor -%}
+</div>

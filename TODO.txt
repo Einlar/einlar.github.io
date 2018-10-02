@@ -2,6 +2,11 @@
 - Aggiungere colonna "note" per gli appunti, e dividere per corso in modo carino
 - Verificare robustezza ordering date, aggiungere colonna "Giorno", oppure stamparlo nella data
 - BUG - Nella pagina "blog.html" pare non vengano importati i file js della navbar, che quindi scompare senza mai più ricomparire! Fix it!
+Il bug è alla riga 53 di main.js, e si verifica solo se è presente un singolo post. Vedi di fixarlo, un giorno, ma senza fretta!
+-Bisogna includere il main.css del tema in assets nel caricamento su github
 
+-Più interessante sarebbe la possibilità di implementare più pagine come "blog.html", che mostrano le varie sezioni (più sezioni)
+-Sistema inclusione (manuale) dello script per tabelle e ripetizione codice
+-Lo scrolly funziona con il nome degli elementi: se ho due voci che si chiamano uguale non andrà!
 
 - Importare appunti vecchi dall'altro sito e riorganizzare

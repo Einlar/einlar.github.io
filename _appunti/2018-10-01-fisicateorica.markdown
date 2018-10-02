@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Appunti
-subtitle: Appunti universitari
-order: 3
-icon: fa-book-open
+title:  "Fisica Teorica"
+subtitle: "Appunti di fisica teorica"
+date:   2018-10-01 21:36:09 +0200
+categories: jekyll update
 tabella: true
 ---
-
 
 <table id="fisica_teorica" class="display">
     <thead>
