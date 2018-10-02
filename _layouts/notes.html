@@ -10,6 +10,24 @@ tabella: true
   
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
 
+<script type="text/javascript" charset="utf8">
+	$(document).ready( function () {
+		jQuery.extend(jQuery.fn.dataTableExt.oSort, {
+			"extract-date-pre": function(value) {
+				var date = $(value, 'span')[0].innerHTML;
+				date = date.split('/');
+				return Date.parse(date[1] + '/' + date[0] + '/' + date[2])
+			},
+			"extract-date-asc": function(a, b) {
+				return ((a < b) ? -1 : ((a > b) ? 1 : 0));
+			},
+			"extract-date-desc": function(a, b) {
+				return ((a < b) ? 1 : ((a > b) ? -1 : 0));
+			}
+		});
+	});
+</script>
+
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}
@@ -17,6 +35,6 @@ tabella: true
 	{%- endif -%}
 	<!-- Sections -->
 	{%- for _section in _appunti -%}
-		{%- include section.html title=_section.title photo=_section.cover-photo photo-alt=_section.cover-photo-alt auto-header=_section.auto-header content=_section.content -%}
+		{%- include appunti.html title=_section.title photo=_section.cover-photo photo-alt=_section.cover-photo-alt auto-header=_section.auto-header content=_section.content materia=_section.materia -%}
 	{%- endfor -%}
 </div>

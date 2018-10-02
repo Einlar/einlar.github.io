@@ -10,3 +10,8 @@ Il bug è alla riga 53 di main.js, e si verifica solo se è presente un singolo 
 -Lo scrolly funziona con il nome degli elementi: se ho due voci che si chiamano uguale non andrà!
 
 - Importare appunti vecchi dall'altro sito e riorganizzare
+
+
+CREDITS ICON
+-https://www.flaticon.com/free-icon/tex-file-format-symbol_29543
+-https://www.iconfinder.com/icons/216660/link_icon

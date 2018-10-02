@@ -1,0 +1,82 @@
+{%- assign _title = include.title | default: 'Untitled' -%}
+{%- assign _slug = include.title | strip_html | slugify | default: 'untitled' -%}
+
+{%- if include.auto-header == 'none' -%}
+	{%- assign _heading = "" -%}
+{%- else -%}
+	{%- capture _heading -%}
+		<header>
+			<h2>
+        {%- if include.auto-header == null or include.auto-header == 'use-title' -%}
+          {{- _title -}}
+        {%- else -%}
+          {{- include.auto-header -}}
+        {%- endif -%}
+      </h2>
+      {%- if include.subtitle -%}<p>{{- include.subtitle -}}</p>{%- endif -%}
+		</header>
+	{%- endcapture -%}
+{%- endif -%}
+
+<section id="{{- _slug -}}" class="{{- _class -}}">
+  <div class="container">
+    {{- _photo -}}
+		{{- _heading -}}
+		<table id="{{ include.materia }}" class="display">
+				<thead>
+						<tr>
+								<th>Giorno</th>
+								<th>Descrizione</th>
+								<th>Link</th>
+								<th>Note</th>
+						</tr>
+				</thead>
+				<tbody>
+								{% for appunto in site.data.appunti %}
+									{% if appunto.materia == include.materia %}
+									<tr>
+											<td><span>{{appunto.day}}</span></td> <!-- Data deve essere dentro a span sennò non funziona lo script di ordinamento -->
+											<td>{{appunto.desc}}</td>
+											<td>
+												{% for link in appunto.link %}
+													<a href="{{link}}" class="icon-link"><img src="assets/images/icon1.png"/></a>
+												{% endfor %}
+												{% if appunto.latex %}
+													<a href="{{appunto.latex}}" class="icon-link"><img src="assets/images/texicon.png"/></a>
+												{% endif %}
+											</td>
+											<td>
+												{{ appunto.note | default: "" }}
+											</td>
+									</tr>
+									{% endif %}
+								{% endfor %}
+				</tbody>
+		
+		</table>
+
+		<script type="text/javascript">
+				$(document).ready( function () {
+						$('#{{- include.materia -}}').DataTable(
+								{
+										"language": {
+												"url": "//cdn.datatables.net/plug-ins/1.10.19/i18n/Italian.json"
+										},
+										columnDefs: [{
+												type: 'extract-date',
+												targets: [0],
+												"width": "10%"
+										}, {
+											"width":"5%",
+											targets: [2]
+										}, {
+											"width":"25%",
+											targets: [3]
+										}]
+								}
+						);
+				} );
+		</script>
+    {{- include.content -}}
+  </div>
+</section>
