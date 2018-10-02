@@ -37,12 +37,12 @@
 									<tr>
 											<td><span>{{appunto.day}}</span></td> <!-- Data deve essere dentro a span sennò non funziona lo script di ordinamento -->
 											<td>{{appunto.desc}}</td>
-											<td>
+											<td style="text-align:center;">
 												{% for link in appunto.link %}
-													<a href="{{link}}" class="icon-link"><img src="assets/images/icon1.png"/></a>
+													<a href="{{link}}" target="_blank" class="icon-link"><img src="assets/images/icon1.png"/></a>
 												{% endfor %}
 												{% if appunto.latex %}
-													<a href="{{appunto.latex}}" class="icon-link"><img src="assets/images/texicon.png"/></a>
+													<a href="{{appunto.latex}}" target="_blank" class="icon-link"><img src="assets/images/texicon.png"/></a>
 												{% endif %}
 											</td>
 											<td>

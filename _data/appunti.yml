@@ -1,28 +1,28 @@
 - day: 1/10/2018
-  desc: Test è qui
+  desc: "Introduzione alla MQ. Motivazione del formalismo: 4 punti che devono essere spiegati. Esempio: sparare elettroni
+  contro due fenditure genera una figura d'interferenza. Prima impostazione di un esempio sulla polarizzazione dei fotoni."
   link: 
-    - http://goldshish.hol.es
-    - http://google.it
+    - http://bit.ly/2zMbmAQ
   latex:
     - linktex
-  materia: fisicateorica
+  materia: fisteo
 - day: 2/10/2018
-  desc: Test
-  link: Prova XD
-  materia: fisicateorica
-- day: 1/11/2017
-  desc: sadqw day
-  link: asdwq 
-  materia: fisicateorica
-- day: 3/9/2018
-  desc: Provs
-  link: adecer 
-  materia: fisicateorica
-- day: 4/9/2018
-  desc: Prova
-  link: Test
-  materia: metodicomputazionali
-- day: 4/9/2018
-  desc: Prova
-  link: Test
-  materia: laboratorio3
+  desc: "Introduzione alla Meccanica Statistica. Ripasso di fondamenti di termodinamica: equilibrio, trasformazioni, funzioni di stato, reversibilità, proprietà estensive/intensive, primi due principi.
+  Primo postulato della Meccanica Statistica nell'ensemble microcalorico (equiprobabilità a priori)."
+  link: 
+    - http://bit.ly/2RkoZOf
+    - http://bit.ly/2OrV88h
+  materia: mecstat
+- day: 1/10/2018
+  desc: "Teoria: prime 30 diapositive dal file 'diodo' sul moodle. Esercizi su circuiti + un esercizio su semiconduttori."
+  link: http://bit.ly/2xSR8Eh
+  materia: labo3
+- day: 2/10/2018
+  desc: "Teoria: fino a diapositiva 61 sul file 'diodo' sul moodle. Esercizi sui diodi + un esercizio per casa."
+  link: http://bit.ly/2NhRkBG 
+  materia: labo3
+- day: 2/10/2018
+  desc: "Introduzione al corso, principali applicazioni. Definizione di algoritmo. Principali tipologie di errore (classificazione).
+  Analisi e stima degli errori di arrotondamento. Nozione di 'machine number'."
+  link: http://bit.ly/2P52ZFT
+  materia: comput

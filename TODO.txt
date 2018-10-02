@@ -9,6 +9,19 @@ Il bug è alla riga 53 di main.js, e si verifica solo se è presente un singolo 
 -Sistema inclusione (manuale) dello script per tabelle e ripetizione codice
 -Lo scrolly funziona con il nome degli elementi: se ho due voci che si chiamano uguale non andrà!
 
+-TO DO: Aggiungere supporto cambio orientazione su mobile
+-TO DO: Centrare i link_icon
+-TO DO: Jekyll localization
+-TO DO: Add favicon.ico
+
+FEATURES
+-Collab (invio/correzione di appunti)
+-"Scarica tutti" gli appunti
+-Search latex source
+-Contact form
+-Fix google analytics
+
+
 - Importare appunti vecchi dall'altro sito e riorganizzare
 
 
