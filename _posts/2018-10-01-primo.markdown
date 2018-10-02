@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Post #1"
+subtitle: "Perché a contare si parte da 1, e non da 0"
+date:   2018-10-01 21:36:09 +0200
+icon: fa-plus-circle
+categories: placeholder
+---
+Primo post di una (forse) lunga serie. O forse estremamente breve. Comunque questo è solo un placeholder.

@@ -39,9 +39,9 @@
 {%- endif -%}
 
 <section id="{{- _slug -}}" class="{{- _class -}}">
-  <div class="container">
+  <div class="container" style="text-align: justify;"> <!-- Sistemare il justify TO DO-->
     {{- _photo -}}
-    {{- _heading -}}
-    {{- include.content -}}
+    <div style="text-align:center">{{- _heading -}}</div>
+    {{- include.content | markdownify -}}
   </div>
 </section>
