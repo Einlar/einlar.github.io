@@ -26,3 +26,9 @@
   Analisi e stima degli errori di arrotondamento. Nozione di 'machine number'."
   link: http://bit.ly/2P52ZFT
   materia: comput
+- day: 3/10/2018
+  desc: "Trattazione della polarizzazione dei fotoni. Polarizzazione come elemento nella sfera di Bloch. Principio di sovrapposizione, completezza di 
+  Dirac. Comportamento del singolo fotone quantistico come limite della teoria classica. In MQ gli osservabili NON hanno valore prima di una misura,
+   altrimenti ciò porta a risultati assurdi (esempio: esperimento sulla birifrangenza dei cristalli)."
+  link: http://bit.ly/2yc3AhB
+  materia: fisteo
