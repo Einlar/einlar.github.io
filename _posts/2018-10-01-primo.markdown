@@ -6,4 +6,9 @@ date:   2018-10-01 21:36:09 +0200
 icon: fa-plus-circle
 categories: placeholder
 ---
-Primo post di una (forse) lunga serie. O forse estremamente breve. Comunque questo è solo un placeholder.
+Primo post di una (forse) lunga serie. O forse estremamente breve. Comunque questo è solo un placeholder. Test $$\LaTeX$$ $$a^2 + b^2$$ inline. 
+Prova $$\LaTeX$$ equation:
+
+$${\displaystyle i\hbar {\frac {\partial }{\partial t}}\Psi (\mathbf {r} ,t)=\left[{\frac {-\hbar ^{2}}{2\mu }}\nabla ^{2}+V(\mathbf {r} ,t)\right]\Psi (\mathbf {r} ,t)}$$
+
+

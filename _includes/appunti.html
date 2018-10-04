@@ -36,7 +36,7 @@
 									{% if appunto.materia == include.materia %}
 									<tr>
 											<td><span>{{appunto.day}}</span></td> <!-- Data deve essere dentro a span sennò non funziona lo script di ordinamento -->
-											<td>{{appunto.desc}}</td>
+											<td>{{appunto.desc | markdownify}}</td>
 											<td style="text-align:center;">
 												{% for link in appunto.link %}
 													<a href="{{link}}" target="_blank" class="icon-link"><img src="assets/images/icon1.png"/></a>
@@ -46,7 +46,7 @@
 												{% endif %}
 											</td>
 											<td>
-												{{ appunto.note | default: "" }}
+												{{ appunto.note | default: "" | markdownify}}
 											</td>
 									</tr>
 									{% endif %}
@@ -73,7 +73,8 @@
 										}, {
 											"width":"25%",
 											targets: [3]
-										}]
+										}], 
+										"order": [[ 0, 'desc' ]] 
 								}
 						);
 				} );

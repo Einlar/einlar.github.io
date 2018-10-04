@@ -6,6 +6,7 @@
   latex:
     - http://bit.ly/2RimX1f
   materia: fisteo
+  note: "Ora con $$\\LaTeX$$, yeah!"
 - day: 2/10/2018
   desc: "Introduzione alla Meccanica Statistica. Ripasso di fondamenti di termodinamica: equilibrio, trasformazioni, funzioni di stato, reversibilità, proprietà estensive/intensive, primi due principi.
   Primo postulato della Meccanica Statistica nell'ensemble microcalorico (equiprobabilità a priori)."
@@ -39,10 +40,10 @@
   link: http://bit.ly/2Rr0PSj
   materia: fisteo
 - day: 4/10/2018
-  desc: "Definizione di errore metodologico (+ esempio). Stabilità di un algoritmo (+ esempio numerico). Cenni 
-  all'instabilità di un sistema fisico (caos deterministico). Def. di errore statistico. Precisione vs accuratezza.
+  desc: "Definizione di **errore metodologico** (+ esempio). Stabilità di un algoritmo (+ esempio numerico). Cenni 
+  all'instabilità di un sistema fisico (caos deterministico). Def. di **errore statistico**. Precisione vs accuratezza.
   Costi computazionali.<br>
-  Risoluzione di ODE: definizione del problema, equivalenza tra ordine n e sistema del primo ordine. Metodo di Eulero per 
+  **Risoluzione di ODE**: definizione del problema, equivalenza tra ordine n e sistema del primo ordine. Metodo di Eulero per 
   la soluzione di un'equazione differenziale del primo ordine in forma esplicita rispetto alla derivata prima."
   link:
   - http://bit.ly/2O7nkO6
