@@ -38,3 +38,13 @@
    funzioni d'onda di Schrodinger. Stati puri e stati misti. Il principio di indeterminazione mina la definizione dello spazio delle fasi. Def. di valor medio"
   link: http://bit.ly/2Rr0PSj
   materia: fisteo
+- day: 4/10/2018
+  desc: "Definizione di errore metodologico (+ esempio). Stabilità di un algoritmo (+ esempio numerico). Cenni 
+  all'instabilità di un sistema fisico (caos deterministico). Def. di errore statistico. Precisione vs accuratezza.
+  Costi computazionali.<br>
+  Risoluzione di ODE: definizione del problema, equivalenza tra ordine n e sistema del primo ordine. Metodo di Eulero per 
+  la soluzione di un'equazione differenziale del primo ordine in forma esplicita rispetto alla derivata prima."
+  link:
+  - http://bit.ly/2O7nkO6
+  - http://bit.ly/2zQYQ2U
+  materia: comput
