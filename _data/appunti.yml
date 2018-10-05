@@ -35,7 +35,7 @@ Definizione di algoritmo. Errori metodologici e di arrotondamento. Machine-numbe
   link: http://bit.ly/2yc3AhB
   materia: fisteo
   latex: http://bit.ly/2OD0vS2
-  note: "Aggiunto $$\LaTeX$$!"
+  note: "Aggiunto $$\\LaTeX$$!"
 - day: 4/10/2018
   desc: "Descrizione matematica di un sistema fisico: osservabili, stati, valor medi. Spettro di un osservabile, spazio delle fasi.
    Le proprietà intuitive soddisfatte dalla meccanica classica sono violate in MQ (matrici infinito-dimensionali di Heinsenberg,
