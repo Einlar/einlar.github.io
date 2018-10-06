@@ -12,7 +12,8 @@ layout: default
 				<h2>{{- page.title -}}</h2>
 				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
 			</header>
-	    {{- content -}}
-	  </div>
+			{{- content -}}
+			
+			{% include disqus.html url="{{page.url}}" id = {{page.id}} }
 	</article>
 </div>

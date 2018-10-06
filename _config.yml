@@ -57,7 +57,8 @@ dribbble_url:
 markdown: kramdown
 kramdown:
    math_engine: mathjax
-  
+highlighter: rouge
+
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-115217766-2
 
