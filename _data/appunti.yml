@@ -74,3 +74,14 @@ Traiettoria di un proiettile in presenza di attrito: approssimazione isoterma ed
 *(Giordano & Nakanishi - capitolo 2, sezione 2.2)*"
   link: http://bit.ly/2Npe6HV
   materia: comput
+- day: 8/10/2018
+  desc: "Formalismo matematico della MQ (ultimi elementi).<br/>Introduzione alla **formulazione assiomatica Hilbertiana** (o Standard)."
+  link:
+    - http://bit.ly/2CwFIdo
+    - http://bit.ly/2y76ghg
+  materia: fisteo
+- day: 8/10/2018
+  desc: "**Transistor BJT**, funzionamento e regimi di attivazione diretta, saturazione e cutoff. Esercizi sui transistor."
+  link:
+    - http://bit.ly/2C4xrMH
+  materia: labo3
