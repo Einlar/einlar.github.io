@@ -1,0 +1,69 @@
+**<span style="float: left; color: #903; font-size: 75px; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px; font-family: Georgia;">Q</span>uali sono, in ordine, i colori del logo di "Google"?** <br/> Ovviamente non vale andare a controllare. <br/>
+Se siete smemorati come me, che dopotutto sono un pesce rosso, non vi ricorderete che la sequenza è <font color="blue">Blu</font> <font color="red">rosso</font> <font color="gold">giallo</font> <font color="blue">blu</font> <font color="green">verde</font> <font color="red">rosso</font>. E chissà quante volte, ogni giorno, avete usato questo motore di ricerca!
+In parte siete giustificati. Spesso Google cambia il proprio logo, sostituendolo con un "doodle", un richiamo ad un anniversario o evento importante, che può essere una semplice [immaginetta animata](https://www.google.com/doodles/teachers-day-2016-guatemala) o addirittura una [copia funzionante di PacMan](https://www.google.com/doodles/30th-anniversary-of-pac-man). Per di più la sequenza di colori del logo ha subito cambiamenti nel corso del tempo. Per esempio, tra settembre e ottobre del 1998, il celebre motore di ricerca presentava quest'immagine:
+<img src="/content/Google_Logo_Old-PNG.png" style="width: 316px; height: 96px">
+L'anno precedente (1997), addirittura, il logo era questo `coso` quasi illeggibile, che grazie al cielo hanno da allora cambiato:
+<img src="/content/First-google-logo.png" style="width: 316px; height: 96px">
+Il che ci porta al 15 settembre 1997, giorno in cui Larry Page e Sergey Brin registrarono il nome del sito: Google. La loro idea fu **rivoluzionaria**: classificare le pagine in base al numero di "link", collegamenti ipertestuali, presenti in esse. <br>Questo algoritmo, denominato **[PageRank](https://it.wikipedia.org/wiki/PageRank)**, è essenzialmente ispirato all'ambito sociale umano. Nel mondo reale, se molta gente parla di una certa persona, tale persona sarà considerata popolare e rilevante (anche se magari farebbe meglio a <a class="image-link" href="/content/justinbibiero.jpg">non essere rilevante</a>). Così, tra le `pagine web`, quelle che ricevono più collegamenti dalle altre assumono una posizione più alta nei risultati del motore di ricerca. Aggiungendo un bel po' di matematica complessa (ci vuole sempre), e algoritmi per valutare anche i contenuti di ciascuna pagina, Google è così in grado di trovare <a class="image-link" href="/content/velociraptor.png">ottimi risultati</a> per ogni ricerca effettuata.
+
+**Ma perché è necessario Google in primo luogo?** <br>
+Google, come gli altri motori di ricerca, è la soluzione ad un **problema specifico**. L'unico modo di accedere ad un qualsiasi sito, infatti, è conoscere il suo indirizzo, così come per andare a trovare un amico bisogna sapere dove abita, o qual è il suo numero di telefono. <br>
+Una prima soluzione potrebbe essere quella di elencare tutti i siti presenti, magari dividendoli per categoria e in ordine alfabetico: insomma, una specie di elenco telefonico. In effetti, all'inizio Internet funzionava così. <br>
+Nel 1991, quando il web era appena nato dalle idee di Tim Berners-Lee presso le strutture del CERN, era possibile accedere a [questa pagina](http://vlib.org/). Per pubblicare un nuovo sito bastava configurare un server (cioè un computer collegato all'allora rete del CERN) e comunicare l'indirizzo direttamente a Berners-Lee.
+
+Mi immagino conversazioni del genere. <br>
+**Tizio a caso**: Hey, Lee! <br>
+**Tim Berners-Lee**: E adesso cosa c'è? <br>
+**Tizio a caso**: Ho creato un sito. Puoi pubblicarmelo? <br>
+**Tim Berners-Lee**: Passami l'indirizzo, vedrò cosa riesco a fare. <br>
+**Tizio a caso**: www.xXLolzXx.net <br>
+**Tim Berners-Lee**: Non oso pensare cosa ci sia sopra. <br>
+
+Ma stando alla [storia](http://vlib.org/admin/history) forse è accaduto pure di peggio. <br>
+**In ogni caso**, una "soluzione" del genere era appropriata solo per un **ristretto numero di contenuti**. Ben presto, con l'aumentare delle pagine web presenti, nessuno ci capiva più nulla, e fu necessario che **qualcuno** si inventasse un modo per scorrere le interminabili liste di siti alla ricerca delle informazioni necessarie all'utente. Nacquero così i **motori di ricerca**, il cui unico scopo è quello di trovare l'ago nel pagliaio il prima possibile, e, nel caso un tizio lo richiedesse, anche la moneta da 5 cent che aveva perso tre giorni prima. 
+
+Un accenno alla grandezza del pagliaio lo troviamo proprio nella storia di Google, che originariamente doveva chiamarsi **Googol**. <br>Un Googol è un numero: un 1 seguito da 100 zeri. È talmente grande che persino la stima più ampia del numero di particelle elementari presenti nell'universo osservabile è solo un miliardesimo di miliardesimo di Googol. Aneddoto interessante: il nome "Googol" fu trovato da Milton Sirotta, un bambino di 9 anni, che lo suggerì a suo zio, il matematico Edward Kasner, intorno agli anni '20. <br>
+Page e Brin pensarono al Googol come una buona **iperbole** per il numero assurdo di informazioni presenti su Internet. Peccato che non avessero idea di come si scrivesse. Page forse pensò di consultare velocemente Wikipedia, per poi accorgersi che non era ancora stata creata (sarebbe nata nel 2001, quattro anni dopo), e quindi i due decisero di adottare una nuova grafia: e così nacque Google. 
+
+<h3>Ma... quanto è grande Internet?</h3>
+La foresta Amazzonica occupa 5.5 milioni di km². Ciascun km² contiene in media 70 mila alberi. Da ciascun albero è possibile ricavare 17 risme di carta, ciascuna contente 500 fogli A4. Dai dati del 2015, è possibile quindi [calcolare](http://www.physics.le.ac.uk/jist/index.php/JIST/article/view/100/57) che, per stampare tutte le pagine presenti in Internet, è necessario disboscare il 2% della foresta Amazzonica, cioè 110'000 km², per un totale di 65 mila **miliardi** di fogli A4. E Internet continua a crescere, sempre più velocemente. 
+
+Secondo [questo sito](http://www.worldwidewebsize.com/) Internet comprende attualmente qualcosa come **40 miliardi** di pagine web. Per funzionare ha bisogno di un ammontare di potenza tra i 170 e i 370GW, pari al 2% del [consumo mondiale di energia](http://computer.howstuffworks.com/internet/basics/how-much-energy-does-internet-use2.htm).
+
+[Wayback Machine](https://archive.org/web/) è un sito che, a fini storici, raccoglie in archivio una copia di Internet. Un sacco di pagine ormai non più accessibili sono salvate dalla distruzione nell'Archivio di Internet, che contiene un ammontare di dati pari a 50 PetaBytes. Un PetaByte equivale a 1000 GigaByte. La memoria più efficiente che è presente oggi sul mercato è questa schedina microSD da **512 Gb**:
+<img src="/content/512GB-microSD-card.png" style="width:205px; height:150px;">
+Le dimensioni di una microSD sono `15x11x1mm`, sufficienti a malapena a coprire l'unghia di un pollice. Per contenere tutte le informazioni presenti sulla Wayback Machine sono necessarie 2000 di queste schedine: poste una sopra all'altra raggiungerebbero l'altezza di **2 metri**, considerando che ciascuna di esse è più sottile di una moneta da 5 centesimi. 
+
+Ma non demoralizzatevi! È [teoricamente possibile](http://www.livescience.com/53751-brain-could-store-internet.html) per un cervello umano memorizzare l'intero Internet (purtroppo non per un pesce rosso, accidenti!). Inoltre, nel 2007, la potenza di calcolo di tutti i sistemi collegati a Internet ammontava ad un valore comparabile a quello di **un singolo cervello umano**. Oggi dovremmo essere arrivati a circa [8 cervelli](http://www.livescience.com/54094-how-big-is-the-internet.html). 
+
+Tuttavia, in queste ultime considerazioni, **c'è un problema**. Nell'esempio della foresta Amazzonica, infatti, solo una minuscola parte dei fogli è occupata dal web come lo conosciamo. E il resto?
+
+I motori di ricerca hanno bisogno, per funzionare, di una **mappa di Internet**, un enorme elenco contenente tutti i siti esistenti. Ogni motore di ricerca gareggia con gli altri per avere la lista più completa, in modo da fornire risultati migliori ai propri utenti. 
+Ovviamente, compilare un elenco del genere a mano, dati i numeri di cui abbiamo parlato, è semplicemente improponibile. Perciò, i vari motori di ricerca fanno uso di **Web Crawlers**, conosciuti anche come **robots**: si tratta di programmi il cui scopo è scandagliare Internet alla ricerca di tutti i siti possibili. Per esempio **GoogleBot** è, stranamente, il crawler costruito da Google. <br>
+La struttura di base di questi programmi è simile. Ciascuno di essi sfrutta i **link**, i collegamenti ipertestuali, per spostarsi da una pagina all'altra. 
+
+Ma cosa succede se una pagina non è connessa alle altre da **nessun link**, o se si trova in un'area volontariamente ristretta? <br>
+Semplicemente, il motore di ricerca **non è in grado di rilevarla**. Tale pagina rimarrà perciò esclusa da ogni risultato di ricerca, con il rischio di risultare del tutto inaccessibile.
+
+Facciamo un esempio: *Wikipedia*. Si tratta di un'enciclopedia multimediale, il cui scopo, tra gli altri, è quello di "[costruire una rete](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Linking#General_principles)", ossia di rendere ciascuna pagina accessibile dalle altre. Eppure esistono pagine, come quelle elencate [qui](https://en.wikipedia.org/wiki/Wikipedia:Orphan) che si ritrovano completamente **scollegate** dal resto dell'enciclopedia.
+
+Nel caso di Wikipedia, questo è solo un inconveniente temporaneo. Le pagine **"orfane"** sono comunque accessibili, in quanto si trovano **sullo stesso sito** e il sistema centrale può tenerne traccia. Nel caso di Internet, tuttavia, ciò non è più possibile. Non c'è nessun sistema capace di "tener traccia" di tutto quanto, poiché Internet è una rete distribuita, non è un sistema unico che fa capo ad un singolo elemento centrale.
+
+Perciò, immaginate che qualcuno, in un posto sperduto del mondo, o da un'appartamento di una grande città, abbia deciso di creare qualche pagina web, senza pensare di inserirla in un motore di ricerca, o di collegarla ad altre tramite link. Quelle informazioni resteranno, per sempre, inaccessibili, sfuggevoli. Nessuno mai le visiterà, nessuno mai le leggerà. Questo è il destino di innumerevoli pagine.
+
+Il World Wide Web nacque nel 1991, e chissà ora quanti siti sono rimasti salvati da qualche parte su un server, ancora accessibili al loro indirizzo, che però nessuno conosce. Là fuori ci sono pagine lasciate affondare, i cui autori forse nemmeno esistono più. Magari vi sono capolavori non pubblicati, informazioni utili su fatti accaduti, intere storie di vite... che se ne stanno lì, affacciate a Internet, ma nessuno sa dove si trovi la loro finestra, e perciò nessuno mai vi scorgerà dentro.
+
+**In parte è colpa del tempo**. Immaginate un account di Facebook, molto tempo dopo la scomparsa del proprietario, e poi dei suoi amici. Niente più lo collega al mondo quotidiano, il nome cessa di comparire nel motore di ricerca, o tra gli amici suggeriti, **viene perso nel tempo**. Creando Internet non abbiamo fatto altro che erigere uno spazio elettronico parallelo al mondo reale, e soggetto alle stesse leggi. Come innumerevoli informazioni sul passato sono andate perdute, così sarà in Internet, con la differenza che il web l'abbiamo creato noi. 
+
+<h3>Il Deep Web</h3>
+Questo lato "oscuro" di Internet, non accessibile dai motori di ricerca e praticamente perso tra oceani di bit, prende il nome di **Deep Web**. Internet, insomma, è un oceano sconfinato di cui vediamo solo la superficie. I motori di ricerca sono ampie reti che raccolgono dai primi metri di profondità i siti principali: sotto, tuttavia, rimangono **abissi inesplorati**. Il bello è che il "Deep Web" è molto più grande del Web normale. Come un iceberg presenta alla luce solo il 10% del suo volume, così è Internet per come lo conosciamo. Sotto c'è il Deep Web.
+
+E, ovviamente, non è passato molto prima che qualcuno escogitasse un modo per esplorare il Deep Web. Dopotutto, oltre alle pagine orfane, scomparse col tempo, ci sono anche **intere comunità attive**, che semplicemente non vogliono farsi trovare. Siti anonimi popolati da utenti anonimi che vogliono evitare la popolarità della rete, dove tutto è pubblico, dove è difficile mantenere un segreto, dove è difficile evitare che altri entrino non invitati nella propria vita. E, ovviamente, l'anonimità consente una fioritura di attività illegali all'interno del cosiddetto **Dark Web**, il lato criminale del Deep Web.
+
+È giunto il momento di capire meglio come funzionano gli abissi, ed iniziare ad esplorarli. Non è destino dell'uomo rimanere in acque sicure. Nei prossimi post entreremo nella **struttura del Deep Web**, ne scopriremo i segreti, valuteremo come utilizzare la profondità a nostro vantaggio. Lo dico chiaramente da subito: **il Deep Web è, per la maggior parte, un luogo innocuo, una Babilonia di informazioni che semplicemente non trovano posto nei motori di ricerca**. Tuttavia, come nel mondo reale, sarà anche necessario essere equipaggiati e sapere come difendersi: non si sa mai cosa si potrebbe trovare. <br>
+Affronteremo anche questioni di **etica** e di **creatività**. Forse, in futuro, anche gli **aspetti più tecnici** di funzionamento delle reti. Chissà!
+
+Concludo con un ultimo concetto. <br>
+Un [Walled Garden](https://en.wikipedia.org/wiki/Wikipedia:Walled_garden), letteralmente "giardino murato", è, nella terminologia di Wikipedia, una serie di articoli che sono collegati tra loro, ma non al resto dell'enciclopedia. Cose del genere accadono anche in Internet: vi possono essere settori articolati e interconnessi, che però sono inaccessibili dall'esterno. A meno che uno non sappia come scavalcare il muro.
+
+![secret-garden.jpg](/content/secret-garden.jpg)

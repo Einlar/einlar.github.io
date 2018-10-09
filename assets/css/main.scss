@@ -39,6 +39,18 @@ body {
     text-align: center;
 }
 
+img.zoom-img {
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+img.zoom-img:hover {
+    transform: scale(1.5);
+}
+
 .highlight .hll { background-color: #ffffcc }
 .highlight  { background: #ffffff; }
 .highlight .c { color: #888888 } /* Comment */

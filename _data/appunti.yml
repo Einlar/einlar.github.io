@@ -1,3 +1,417 @@
+- day: 10/05/18
+  desc: "(Ultima lezione :D)"
+  link: https://drive.google.com/open?id=1fEQaOUdFD2ti_6viIhiJkXQ4dJoLgHXH
+  materia: metodi
+- day: 08/05/18
+  desc: "(Operatori lineari su spazi di Hilbert)"
+  link: https://drive.google.com/open?id=1OByv_pPjTyq--OUeXzx6mVvuNn3XVy0p
+  materia: metodi
+- day: 07/05/18
+  desc: "(Operatori lineari su spazi di Hilbert)"
+  link: https://drive.google.com/open?id=1nX3y4f4DrC9BeiLNBN9mkbUlJMM3ntKG
+  materia: metodi
+- day: 03/05/18
+  desc: "Trasformate di Fourier di distribuzioni: definizione e proprietà. Esempi di trasformate di distribuzioni singolari. Trasformata della funzione di Heaviside. Utilizzo delle trasformate per la risoluzione di equazioni differenziali. Basi generalizzate, def., ortonormalità, completezza. Distribuzioni su $$\\mathbb{R}^n$$ (def.). Def. di operatore lineare su spazi di Hilbert, estensione, continuità/limitatezza. Teorema: continuità se e solo se limitatezza. Teorema: esistenza di un'estensione unica continua."
+  link: https://drive.google.com/open?id=1EZl4ffXdBEWXUZ8Gq-fimYO76WXPWBSs
+  materia: metodi
+- day: 26/04/18
+  desc: "Composizione di delta con una funzione: caso generale. Esercizi sulle operazioni applicate alla delta. Primitiva di una distribuzione e proprietà, cenni ad equazioni differenziali. Trasformate di Fourier in $$S(\\mathbb{R})$$ e $$S^*(\\mathbb{R})$$: definizioni e proprietà. Dim che $$F$$ e $$F^{-1}$$ sono l'una l'inversa dell'altra in $$S(\\mathbb{R})$$. Def. di prodotto di convoluzione."
+  link: https://drive.google.com/open?id=1g5gBw5PcwDpH3Wm6qdNApL2-YccakmXM
+  materia: metodi
+- day: 24/04/18
+  desc: "Operatori lineari continui. Derivata distribuzionale, esempi per la derivata della funzione di Heaviside e del $$\\log\\mathrm{abs}(x)$$. Operazioni sulle distribuzioni: coniugazione complessa, trasformazioni dell'argomento, prodotto per funzione. Esempio: operazioni applicate alla delta di Dirac. Composizione della delta con una funzione."
+  link: https://drive.google.com/open?id=1t4Mvf3_Q03JXQyUyVijL1Jm1JsInSzJW
+  materia: metodi
+- day: 23/04/18
+  desc: "Def. distribuzioni regolari (funzionali costruiti da funzioni), es. funzione di Heaviside. Def. di distribuzione singolare ed esempio. Valore principale di una distribuzione singolare. Topologia debole su $$S^*(\\mathbb{R})$$ ed esempi. Completezza di $$S^*(\\mathbb{R})$$ sulla topologia debole. Operatori su $$S^*(\\mathbb{R})$$."
+  link: https://drive.google.com/open?id=1p0Icdorqq2DxMwlxNUBX1cDI34dHRrJd
+  materia: metodi
+- day: 19/04/18
+  desc: "(Sono stato assente a questa lezione, causa laboratorio. Ho intenzione di recuperare gli appunti e caricarli qui nella prossima settimana - quella dal 23 al 29 - non appena avrò avuto tempo di copiarli. Sorry del disguido!)"
+  link: http://goldshish.hol.es/appunti#
+  materia: metodi
+- day: 17/04/18
+  desc: "Sistema di Fourier su $$L^2$$. Sistema di Legendre, sistema di Hermite. Def. di funzionale lineare e caratterizzazione. Teorema: un funzionale è continuo se e solo se è limitato (dim). Def. funzionale lineare densamente definito, esempio. Def. di spazio duale."
+  link: https://drive.google.com/open?id=1BflOBOELgpULapZt9ew46ml9PER0UugM
+  materia: metodi
+- day: 16/04/18
+  desc: "Def. di spazio vettoriale separabile. Teorema: sistemi ON in uno spazio separabile sono al più di dimensione infinita numerabile (dim). Spazio separabile => Esistenza di una base ON numerabile (dim parziale), e implicazione inversa (dim parziale), con esempi. Teorema di Riesz-Fischer (dim). Sistema di Fourier su $$L^2$$."
+  link: https://drive.google.com/open?id=1imlILCKQr67S6kOvAhy2wCLGqss-D3zv
+  materia: metodi
+- day: 12/04/18
+  desc: "Spazio $$L^2$$ delle funzioni quadrato sommabili, definizione. Teorema: gli spazi $$L^2$$ unitari sono completi e di Hilbert. Def. chiusura, spazio denso, varietà lineare, sottospazio. Teorema del completamento (+ idea di dim). Def. di complemento ortogonale. Teorema: decomposizione di uno spazio in due sottospazi ortogonali in somma diretta (dim.). Corollario: condizione perché una varietà lineare sia densa. Def. di sistema ortonormale, base ON, metodo di Gram-Schmidt."
+  link: https://drive.google.com/open?id=15gQ4heUJVqtKXRA1StaCLgScdorTc6ZU
+  materia: metodi
+- day: 10/04/18
+  desc: "Identità del parallelogramma e di polarizzazione. Uno spazio normato per cui vale l'identità del parallelogramma è unitario. Disuguaglianza di Schwarz (con dim.). Def. spazio metrico, esempi. Lo spazio $$l^2$$ è uno spazio metrico (dim), spazio $$\\mathcal{C}^2$$. Topologia di spazi vettoriali metrici/normati. Somma, prodotto per uno scalare, norma e prodotto scalare (se definiti) sono funzioni continue (dim). Ogni successione convergente è di Cauchy. Def. spazio metrico completo, spazio di Banach, spazio di Hilbert. Ogni spazio vettoriale di dimensione finita è completo rispetto a qualsiasi norma. $$l^2$$ è uno spazio di Hilbert (dim), mentre $$\\mathcal{C}^2$$ non lo è (dim)."
+  link: https://drive.google.com/open?id=1YZFPwal8ucrNIShxGbAVE-XCjeWL3qAA
+  materia: metodi
+- day: 09/04/18
+  desc: "Ultimi esercizi sugli integrali con metodo dei residui. Caso generale dell'integrale di funzioni razionali reali su dominio limitato. Funzione Gamma di Eulero e proprietà, cenni di funzioni ipergeometriche. <br/>Introduzione al macroargomento degli spazi di Hilbert: def. di spazio vettoriale (+ esempi), vettori linearmente (in)dipendenti, dimensionalità di uno spazio vettoriale, spazi vettoriali unitari (+ esempi), vettori ortogonali, spazi normati."
+  link: https://drive.google.com/open?id=1CiqmoNCbBOoZNbpR8x_J7uV7Wxy5rzB9
+  materia: metodi
+- day: 05/04/18
+  desc: "Esercizi su integrali a variabile reale con metodo dei residui: caso degli integrali non su tutto R. Caso generale dell'integrale di funzioni razionali reali senza poli su un dominio illimitato."
+  link: https://drive.google.com/open?id=17PrgaX0Ejuxtr6O5TrSx_dO2pbAVcJSc
+  materia: metodi
+- day: 29/03/18
+  desc: "Integrali di funzioni trigonometriche con residui. Integrali di funzioni polidrome, con esercizi."
+  link: https://drive.google.com/open?id=1lY7aLfXdSPFNwbg0CFjSyzLFm2YAeNYY
+  materia: metodi
+- day: 27/03/18
+  desc: "Definizione di trasformata e antitrasformata di Fourier. Esempio di calcolo di una trasformata tramite il lemma di Jordan. Calcolo di integrali di linea attraverso singolarità isolate: valore principale (def), lemma dei cerchi piccoli, prescrizione +-i epsilon, con esempi."
+  link: https://drive.google.com/open?id=1i7oG2_7FudGbzMxtC3ph9c67063rjNTI
+  materia: metodi
+- day: 26/03/18
+  desc: "Esercizio: trovare il numero di zeri di una funzione nel primo quadrante. Esercizio: calcolo di un integrale reale tramite residui. Lemma di Jordan (dim). Esercizi sugli integrali con lemma di Jordan."
+  link: https://drive.google.com/open?id=1bPDRiiWL5joSfbhe3a7RhU2mW8LiaYLg
+  materia: metodi
+- day: 22/03/18
+  desc: "Completamento dell'es. della lezione precedente. Def. di funzione intera, funzione meromorfa. Teorema: relazione tra integrali e residui (dim), esempi per poli/zeri semplici, poli di ordine m. Esercizi sul calcolo di residui. Def. di residuo all'infinito. Teorema dei residui (dim). Derivata logaritmica di una funzione: def. e proprietà (con dim). Teorema dell'indice logaritmico."
+  link: https://drive.google.com/open?id=1-jgtQVkbDncQZF3GJTme3lzGK2JTVVk5
+  materia: metodi
+- day: 20/03/18
+  desc: "Def. rivestimento del piano complesso, funzione polidroma. Casi della radice n-esima e del logaritmo. Def. di punto di ramificazione di ordine n, con esempi. Punto di ramificazione all'infinito. Sfera di Riemann. Esercizi su funzioni polidrome: funzione con radice, funzione con logaritmo."
+  link: https://drive.google.com/open?id=1KmJWdPnyZJHmZ7gIs8Y3VZ83swO3Z3nS
+  materia: metodi
+- day: 19/03/18
+  desc: "Esempio: determinazione di una funzione olomorfa date le singolarità e un valore. Teorema: se l'insieme degli zeri di una funzione olomorfa ha un punto d'accumulazione, allora la funzione è identicamente nulla (dim) ed esempio. Def. topologia indotta, connessione. Teorema: identità di funzioni olomorfe (dim). Def. insieme continuo, prolungamento analitico. Teorema: unicità del prolungamento analitico (dim). Esempio di una funzione non prolungabile analiticamente. Introduzione alle funzioni polidrome: il caso della radice complessa."
+  link: https://drive.google.com/open?id=1QK5oKNPPE00ltfVw-5kuIx436snOhufi
+  materia: metodi
+- day: 15/03/18
+  desc: "Serie di Laurent del reciproco di una funzione olomorfa. Esercizio: serie di Laurent di $$1/\\sin(z)$$. Singolarità isolate: definizione, caratterizzazione (eliminabili, poli, essenziali). Relazione tra termini della serie di Laurent e tipo di singolarità (dim). Teorema di Picard (no dim) con esempio. Definizione di residuo, singolarità isolata all'infinito (e sua caratterizzazione, con relazione alla serie di Laurent). Determinazione di una funzione olomorfa con singolarità all'infinito sapendo l'andamento divergente in ogni singolarità e il suo valore in un punto, con esempio."
+  link: https://drive.google.com/open?id=1tD_kF73oSsvQFFcfPxzGw46wbA2ZfIIL
+  materia: metodi
+- day: 13/03/18
+  desc: "Teorema: una funzione olomorfa ammette una rappresentazione sotto forma di serie di Laurent (dim). Tale scrittura è unica (dim). Esercizio: sviluppo in serie di Laurent. Def. zero di una funzione olomorfa, zero semplice, ordine di zero. Regola di de l'Hopital estesa (dim). Sviluppo in serie di Mac-Laurin del reciproco di una funzione olomorfa qualsiasi, con l'ipotesi di $$f(0)$$ non nulla."
+  link: https://drive.google.com/open?id=1ATFdYkL-TicpBWK4FfHLDbiTVThqCNx3
+  materia: metodi
+- day: 12/03/18
+  desc: "Esercizio: integrale del reciproco. Def. di raggio di convergenza. Derivate e integrali di una serie di potenze hanno lo stesso raggio di convergenza. Criteri di convergenza: rapporto, radice, Cauchy-Hadamard. Principali serie di potenze. Serie di Taylor, dimostrazione della convergenza. Una qualsiasi funzione olomorfa può essere espressa come una serie di potenze convergenti unicamente tramite la serie di Taylor (dim). Principali serie di Mac-Laurin. Serie di Laurent, definizione e condizione di convergenza. Teorema: una qualsiasi funzione olomorfa può essere espressa come una serie di Laurent (generalizzazione della serie di Taylor)."
+  link: https://drive.google.com/open?id=1hLFyr-SMG0S09Re5pF56Qu0gqrc14-Iq
+  materia: metodi
+- day: 08/03/18
+  desc: "Dimostrazione del teorema di Liouville generalizzato. Teorema fondamentale dell'algebra (+ dim.). Esempi di integrali di funzioni complesse. Definizione di successione di funzioni e principali proprietà. Una successione di funzioni continue converge a una funzione continua. Definizione di serie di funzioni. Teorema di Weierstrass (+ dim.). Definizione di serie di potenze. Teorema di Abel (+ dim.)"
+  link: https://drive.google.com/open?id=1QwjMFqF_ShN1rLToatNWozJRQyD8u4DV
+  materia: metodi
+- day: 06/03/18
+  desc: "Teorema di Morera (con dim.). Due primitive della stessa funzione differiscono per una costante. Teorema fondamentale del calcolo nel caso di domini non semplicemente connessi. Es. integrale di $$(z-a)^n$$ e $$z^n$$ lungo una curva chiusa. Integrale di $$1/(z-a)$$ lungo una curva chiusa, formula di Cauchy. Corollario: una funzione olomorfa ammette derivate continue di ogni ordine (con due dim., una tramite Cauchy e una più rigorosa dalla def. di derivata). Teorema della media, principio del massimo, teorema di Liouville (tutti con dim.)."
+  link: https://drive.google.com/open?id=1v2piqMi6Su1MtCozzsxggvb7rFkUqtco
+  materia: metodi
+- day: 01/03/18
+  desc: "Regola di de l'Hopital (con dim.). Integrazione lungo una curva, invarianza per riparametrizzazioni, disuguaglianza di Darboux. Definizione di omotopia tra curve chiuse, omotopia tra curve aperte a estremi fissati e omotopia a un punto. Definizione di spazio semplicemente connesso. Teorema di Cauchy (con dim.). Corollario: invarianza dell'integrale di linea di funzioni olomorfe per omotopia. Teorema fondamentale del calcolo integrale (con dim.)."
+  link: https://drive.google.com/open?id=1Y6IwvDSk6ZAzHTFlabYRhIOYlohtlX2M
+  materia: metodi
+- day: 27/02/18
+  desc: "Funzioni olomorfe ammettono derivata continua e derivabile, per cui parte reale e immaginaria sono $$\\mathcal{C}^\\infty$$. Operatori di derivazione complessa e di Cauchy-Riemann, e loro proprietà in relazione alle operazioni comuni (somma/prodotto/reciproco/composizione). Principali funzioni olomorfe e non olomorfe. Definizione di funzione armonica, relazione tra funzioni olomorfe e armoniche (dimostrazione che parte reale e immaginaria di una funzione olomorfa sono armoniche). Trasformazioni conformi: funzioni olomorfe preservano localmente gli angoli."
+  link: https://drive.google.com/open?id=17MOlb4eo19_kjdtkwDWyA7O_sU2z_tUU
+  materia: metodi
+- day: 26/02/18
+  desc: "Introduzione al corso. Riepilogo delle proprietà dei numeri complessi: definizione, somma e prodotto, coniugazione complessa, modulo, forma polare. Cenni di topologia dello spazio complesso. Principali funzioni complesse a variabile complessa (parte reale e immaginaria, polinomio, f. razionale, esponenziale, logaritmo, f. trigonometrica). Definizione di limite per funzioni complesse, continuità e derivabilità. Definizione di funzione olomorfa e teorema di Cauchy-Riemann con dimostrazione."
+  link: https://drive.google.com/open?id=1TV5SHOg2QFUPgqdPyNs3W1AerYSiffYy
+  materia: metodi
+- day: 29/05/18
+  desc: "Geodetiche (parte 2)."
+  link: https://drive.google.com/open?id=1FOHlSX_PIsyYYIUtZNkcI1FKAJmq6jl-
+  materia: fismat
+- day: 25/05/18
+  desc: "Geodetiche."
+  link: https://drive.google.com/open?id=1PuJW-Er1IpNLLWaXIR5yK1gmXhfgp_3X
+  materia: fismat
+- day: 23/05/18
+  desc: "Principio variazionale."
+  link: https://drive.google.com/open?id=1ovPQBK5nPtUgSrV-AYHwJ5bQFF--QFQA
+  materia: fismat
+- day: 22/05/18
+  desc: "Analisi del doppio oscillatore. Esercizio: tre punti ancorati ad una sfera e collegati da molle."
+  link: https://drive.google.com/open?id=18QVbKEUSHAh26Ze_8036YS1ozMfzGScF
+  materia: fismat
+- day: 18/05/18
+  desc: "Esercizio: problema di Keplero (due corpi)"
+  link: https://drive.google.com/open?id=1SorllfZuu0d929QXDDYyQ2YIwrw057hV
+  materia: fismat
+- day: 16/05/18
+  desc: "Riduzione alla Routh: descrizione del metodo generale (a partire dall'esempio particolare della caduta di un grave). Esempio di applicazione: pendolo sferico."
+  link: https://drive.google.com/open?id=1L6PqyX5dIHvum0M0VsqdronOgO_zp1Mg
+  materia: fismat
+- day: 15/05/18
+  desc: "Definizione di azione, con esempi. Un'azione è il flusso di un campo vettoriale (dim). Nozione di invarianza di una funzione sotto un'azione. Teorema di Noether (dim). Esempi di applicazione: invarianza per traslazioni e conservazione del momento lineare, invarianza per rotazioni e conservazione del momento angolare, caso delle coordinate ignorabili. Analisi del problema dei 2 corpi. "
+  link: https://drive.google.com/open?id=1r7WEZyIHrVE2Wd3mc5SXO0_IG1VBQLNo
+  materia: fismat
+- day: 11/05/18
+  desc: "Esercizio sulle piccole oscillazioni. Caratterizzazione dei casi di (in)stabilità per lagrangiane di sistemi meccanici. Modello universale per le piccole oscillazioni (n oscillatori armonici disaccoppiati). Stabilità in 2 dimensioni. Analisi della stabilità dei punti d'equilibrio per il problema ristretto dei 3 corpi."
+  link: https://drive.google.com/open?id=1n5FgMLhGtPNOokdLnAGUp_Q8XYLUzbZX
+  materia: fismat
+- day: 09/05/18
+  desc: "Proprietà dei moti descritti dalla linearizzazione attorno ad un equilibrio stabile:   piccole oscillazioni  . Integrale generale, modi normali, periodicità. Esempio: piccole oscillazioni attorno all'equilibrio (0,0) del pendolo doppio. "
+  link: https://drive.google.com/open?id=1DQeFlSIiyORVzwfz4ViT0T9yFbCaFuwS
+  materia: fismat
+- day: 08/05/18
+  desc: "Dimostrazione del teorema dell'instabilità (linearizzazione delle equazioni di Lagrange). Esercizio: punto su un ellissoide ancorato con una molla orizzontale all'asse z, determinazione di equilibri e stabilità/instabilità. "
+  link: https://drive.google.com/open?id=1zr8ChKrDQZHAXGINO94cwofIJD5uGEeH
+  materia: fismat
+- day: 04/05/18
+  desc: "Caratterizzazione degli equilibri di un sistema meccanico a partire dalla lagrangiana: teorema di Lagrange-Dirichlet per la stabilità, teorema dell'instabilità. Esempi di determinazione di stabilità/instabilità degli equilibri: pendolo sferico, pendolo doppio, punto con molla (caso libero e caso vincolato ad una sfera). "
+  link: https://drive.google.com/open?id=19koOyzq7x1noP6knLFDsFXinxL4g7AMx
+  materia: fismat
+- day: 02/05/18
+  desc: "Invarianza delle equazioni di Lagrange per cambi di variabili (dim). Esempi: pendolo cicloidale, pendolo accelerato (sia in sdr solidale ad esso che in sdr   fisso  ). Esercizio per casa: pendolo rotante. "
+  link: https://drive.google.com/open?id=1ZhCQfAoipubfKJ0I9fXJqpLNX4VlkJ37
+  materia: fismat
+- day: 27/04/18
+  desc: "Analisi generale dei termini delle equazioni di Lagrange, condizioni necessarie perché le equazioni possano essere scritte in forma normale. Integrale di Jacobi (generalizzazione dell'energia). Teorema di Eulero sulle funzioni omogenee (con dim) e applicazione per la semplificazione del calcolo dell'integrale di Jacobi. Def. di momenti coniugati, con esempi. Lagrangiane equivalenti. "
+  link: https://drive.google.com/open?id=1NlNP89mWVaQeIHHp2xdUIv0q1XwTBztt
+  materia: fismat
+- day: 24/04/18
+  desc: "Teorema spettrale di Lyapunov (con dim. del caso speciale in cui $$X'$$ è diagonalizzabile). Funzioni di Lyapunov e loro relazione con gli equilibri L-stabili (+ idea di dim.). Esempi di applicazione "
+  link: https://drive.google.com/open?id=1KJXef0PhBFVo6J5eO-yeeugLdtkHIOQk
+  materia: fismat
+- day: 23/04/18
+  desc: "Tutorato: esercizi sugli integrali primi."
+  link: https://drive.google.com/open?id=1CaNK8iJiHLJ1MxbOFkl4WZhsaXpISMKH
+  materia: fismat
+- day: 20/04/18
+  desc: "Ricavare la legge oraria di un sistema unidimensionale grazie all'IP dell'energia. Formula per il periodo di un moto periodico. Esempi: pendolo, pendolo rotante. Definizione di L-stabilità di un equilibrio, con esempi per l'equazione di Newton unidimensionale e i sistemi lineari in R2. Generalizzazione lasciata per esercizio a casa. "
+  link: https://drive.google.com/open?id=1oJRfppYO3uPxLuBk5V9TC8LJdO5dMkVM
+  materia: fismat
+- day: 18/04/18
+  desc: "Come usare gli IP (specialmente l'integrale dell'energia) per ricavare i ritratti in fase di sistemi unidimensionali: vari esempi."
+  link: https://drive.google.com/open?id=1A-JldC9iHyKcGqvR06jM6GirLKkq2uCx
+  materia: fismat
+- day: 17/04/18
+  desc: "Def. di integrale primo, derivata di Lie, verifica che una funzione sia un IP. Caso: presenza di più integrali primi. Nozione di indipendenza funzionale. Metodo dell'abbassamento dell'ordine di una ODE, con esempio. Def. di equilibrio attrattivo, incompatibilità degli IP con la presenza di equilibri attrattivi. "
+  link: https://drive.google.com/open?id=16fStEyceCx_ac-vf9wFRd7QQvKFS9POy
+  materia: fismat
+- day: 13/04/18
+  desc: "Caratterizzazione dei ritratti in fase nel caso di sistemi di equazioni lineari (caso multidimensionale). Esempio: oscillatore smorzato. Dal lineare al non lineare: le conclusioni trovate per le linearizzazioni attorno agli equilibri quanto fedelmente rappresentano (almeno localmente) il reale comportamento del sistema non lineare di partenza? Def. di equilibrio iperbolico/ellittico. Teoremi di Hartman-Grobman e della varietà stabile per gli equilibri iperbolici (senza dim). Esempi: equazione di Newton unidimensionale, un sistema non lineare generico (orbite esaminate graficamente tramite il pacchetto EquationTrekkersu Mathematica). Def. di integrale primo. "
+  link: https://drive.google.com/open?id=13jxvQ6pDkOkRWECwjgMH_Z6NIc5QJQ7e
+  materia: fismat
+- day: 11/04/18
+  desc: "Caratterizzazione del flusso di un'equazione lineare a seconda del segno degli autovalori (casi reale e complesso). Vari scenari possibili per il ritratto in fase. Esempi: oscillatore armonico, repulsore armonico, sistema non lineare. "
+  link: https://drive.google.com/open?id=1ZbZUABnZ5Dll25NNb4k0Sp-LFua6Bef3
+  materia: fismat
+- day: 10/04/18
+  desc: "Linearizzazione a equilibrio di un'equazione diff. del primo ordine, con esempio, o del secondo ordine, con esempio (forza posizionale). Risoluzione di equazioni differenziali lineari: condizioni per la diagonalizzabilità, esponenziale di matrice. "
+  link: https://drive.google.com/open?id=178QpPCQGcQNDDaKiw5iHNnH1oqyzuSAT
+  materia: fismat
+- day: 09/04/18
+  desc: "Tutorato: esercizi sulla scrittura di lagrangiane ed equazioni di Lagrange."
+  link: https://drive.google.com/open?id=1ZI9DkwbNKoVsLnOFjKARAmSEXLUuZMOl
+  materia: fismat
+- day: 06/04/18
+  desc: "Potenziali dipendenti dalle velocità (potenziali generalizzati), definizione e forma. Esempi: forza di Coriolis, forze di inerzia generali, punto libero/vincolato ad una superficie sferica e soggetto alla forza di Lorentz (derivazione lagrangiana per un sistema elettromagnetico) "
+  link: https://drive.google.com/open?id=1mjTLvfR6fvjriP3OYopNH7yEUO0m884M
+  materia: fismat
+- day: 04/04/18
+  desc: "Def. di campo di forze posizionale, conservativo; energia potenziale. Equazioni di Lagrange con energia potenziale per sistemi di forze conservative e posizionali (dim), funzione lagrangiana. Un campo di forze che ammette un potenziale nel caso di un sistema libero ammette lo (stesso) potenziale nel caso vincolato (dim). L'energia potenziale non è unica. Esempi: punto pesante, pendolo. Adattamento della lagrangiana di un sistema libero al caso vincolato. Esempi: problema di Keplero in coordinate sferiche, molla tra due punti non vincolati (+ forza peso), problema dei due corpi. Situazione (tipica): lo stesso potenziale genera più forze (uguali e contrarie). "
+  link: https://drive.google.com/open?id=1fsWHQ4wlV-ews0dbg-f303dyrSAJZs_B
+  materia: fismat
+- day: 28/03/18
+  desc: "Coordinate dipendenti dal tempo: parametrizzazione delle velocità, energia cinetica, equazioni di Lagrange. Oss: i termini aggiuntivi dovuti al cambio di coordinate corrispondono alle forze apparenti nel caso di un cambio di sdr. Esempio: punto legato con una molla ancorata ad una base rotante. Def. di vincolo olonomo mobile, effetto su velocità ed energia cinetica. Condizione di vincolo ideale nel caso di vincoli che dipendono dal tempo, def. di spostamenti virtuali, principio di d'Alembert. Esempio: pendolo di lunghezza variabile. "
+  link: https://drive.google.com/open?id=1OUTX54gtOtpeSlTMKtQsuKhajNLLC4zN
+  materia: fismat
+- day: 27/03/18
+  desc: "Equazioni di Lagrange per un sistema libero/vincolato. Esempi di calcolo: pendolo, problema di Keplero. "
+  link: https://drive.google.com/open?id=1ecgvb7xWuFiJXQzLT7TIRmJ0oVAqB6gB
+  materia: fismat
+- day: 26/03/18
+  desc: "Tutorato: esercizi su basi naturali, cambi di coordinate ed energia cinetica. "
+  link: https://drive.google.com/open?id=1O22-vRfUvB801uD48fVO3hVUQJdGCYqd
+  materia: fismat
+- day: 23/03/18
+  desc: "Scrittura di un atto di moto in coordinate su una varietà (sia per sistemi liberi che vincolati). Base naturale per il sollevamento tangente della sottovarietà. Esempi di basi naturali nel caso di punto singolo in coordinate cilindriche, o di due punti a distanza vincolata (manubrio). Def. energia cinetica. Energia cinetica nell'atto di moto rispetto alle coordinate di una sottovarietà. Esempi di calcolo dell'energia cinetica per coordinate cilindriche e manubrio. "
+  link: https://drive.google.com/open?id=1oTOdEvCqd2BAXtkudqzgd-GscQYwAbsa
+  materia: fismat
+- day: 20/03/18
+  desc: "Problema dell'esistenza e unicità di un moto vincolato ad una varietà Q. Def. di vincolo ideale, condizione di idealità geometrica e dinamica (principio di d'Alembert), esempi. Un sistema con vincoli olonomi (fissi) ideali ammette l'esistenza di moti vincolati (dim). "
+  link: https://drive.google.com/open?id=1EZgqvQYiQz-UmDKDe6LBf2trpRy8R73e
+  materia: fismat
+- day: 19/03/18
+  desc: "Ulteriori esempi di sistemi vincolati"
+  link: https://drive.google.com/open?id=1u_wLAGE6xKCweUgKh7-wTUJ3i4G7k3xs
+  materia: fismat
+- day: 16/03/18
+  desc: "Sistemi vincolati: introduzione della forza di reazione vincolare. Costruzione di una ortonormale su una curva, metodo di Fresnel. Equazione generale del moto (seconda legge di Newton) per un punto materiale che si trova su una curva. Ipotesi di guida liscia (vincoli non fanno lavoro), unicità della reazione vincolare data l'ipotesi. Definizione generale di vincolo. Vincolo olonomo (bilatero) fisso, esempi. "
+  link: https://drive.google.com/open?id=1SyY3d7hJsoTxrTng73ajmwjt3q0HmD1y
+  materia: fismat
+- day: 14/03/18
+  desc: "Se un campo vettoriale è tangente ad una sottovarietà chiusa, allora essa è invariante sotto al flusso del campo (dim). Due esercizi su sottovarietà invarianti e cambi di variabili (coordinate polari e sferiche). "
+  link: https://drive.google.com/open?id=1HjFYJ-sMOqMueddM42UagAQ8oGN21LI-
+  materia: fismat
+- day: 13/03/18
+  desc: "Equazioni differenziali del secondo ordine, rappresentazione come sistema del primo ordine, soluzioni, equilibri. Esempio: oscillatore armonico. Distinzione tra spazio delle fasi e delle configurazioni. Cambiamenti di coordinate in equazioni del II ordine: solo i sollevamenti tangenti preservano la struttura del secondo ordine (dim). Esempio: problema di Keplero in coordinate cilindriche. Def. di sottovarietà invarianti, integrale primo, esempi. Def. di campo vettoriale tangente a una sottovarietà. Se una sottovarietà è invariante allora il campo vettoriale è tangente ad essa (dim). "
+  link: https://drive.google.com/open?id=1uxmhv_zKkTGAjBPXc_7m6fLxzuwdBtcj
+  materia: fismat
+- day: 12/03/18
+  desc: "Tutorato: esercizi sulle equazioni differenziali (rappresentazioni qualitative di equazioni del primo ordine, risoluzione generale di equazioni del secondo ordine). "
+  link: https://drive.google.com/open?id=1UH8fkXukvOZovUgg9qUxtTOeomW6xvVc
+  materia: fismat
+- day: 09/03/18
+  desc: "Ripasso sulle varietà differenziabili. Definizione di sottovarietà, diffeomorfismo, diffeomorfismo locale. Invertibilità della matrice Jacobiana. Esempio di diffeomorfismo locale che non è globale. Teorema della funzione inversa. Nozione di differenziabilità per funzioni tra insiemi qualunque. Carta locale e parametrizzazione. Immersioni e sommersioni. Vettori e spazi tangenti a sottovarietà. "
+  link: https://drive.google.com/open?id=1DwJ42IsIGI2W3nb88F6PVDYU9I8RowyH
+  materia: fismat
+- day: 07/03/18
+  desc: "Esempi: diffeomorfismo di un campo radiale bidimensionale, passaggio in coordinate polari. Definizioni di push forward/back, sollevamento tangente di mappe. Esempi di sollevamento tangente di funzioni, passaggio in coordinate cilindriche in R^3. Il sollevamento tangente induce una base per le derivate (velocità) delle coordinate. "
+  link: https://drive.google.com/open?id=11ezOiQBOLkplxI3AKCXFbXcZIoj6XGFY
+  materia: fismat
+- day: 06/03/18
+  desc: "Forma normale dell'equazione del moto per un sistema di N punti materiali. Campo di forze vincolari. Vettori tangenti ad un aperto di R^d, fibrato tangente. Def. campo vettoriale, interpretazione geometrica di ODE come campi vettoriali. Campo vettoriale completo. Flusso di un'equazione differenziale autonoma e proprietà. Definizione di orbita, proprietà di non intersezione, ritratto in fase. Applicazione di un diffeomorfismo (passaggio ad un diverso sdr) ad una funzione e a un campo vettoriale. Campo vettoriale coniugato, formula e dimostrazione. Esempio in R^1. "
+  link: https://drive.google.com/open?id=17JG9u_xAaXxBXg4hFrtM26PRVuEybKEK
+  materia: fismat
+- day: 02/03/18
+  desc: "Ripasso delle equazioni differenziali. Problema di Cauchy, teorema di esistenza e unicità, soluzioni massimali. Spazio delle fasi, traslabilità temporale delle soluzioni per equazioni differenziali autonome. Flusso e proprietà, orbite di un'equazione. Esempi in una e due dimensioni (oscillatore armonico). "
+  link: https://drive.google.com/open?id=1eekN8p5biZXKsUwsdnptHwsE6HgShyFt
+  materia: fismat
+- day: 28/02/18
+  desc: "Dimostrazione della velocità angolare. Relazione tra velocità e accelerazioni nei diversi sistemi di riferimento. Esempio: moto del Sole rispetto a un sdr con assi fissi la cui origine ha il moto della Terra. Equazioni del moto per un sistema meccanico."
+  link: https://drive.google.com/open?id=1c5UY10FE63yYTDoBLdMOOEB1Lhn1WQ6M
+  materia: fismat
+- day: 27/02/18
+  desc: " Definizione di sistema meccanico, sistema di riferimento, moto. Derivata di un vettore, vettori velocità e accelerazione. Equazione di moto del sistema (II legge di Newton). Problema ristretto dei tre corpi. Cambio di sistema di riferimento: rotazione degli assi, operatore skew, velocità angolare. "
+  link: https://drive.google.com/open?id=1UQhuVtBk-OMkMj6NoRRJp3pKJ31l38QY
+  materia: fismat
+- day: 26/02/18
+  desc: "Introduzione agli argomenti del corso."
+  link: https://drive.google.com/open?id=1pYJCMALz1iTtskFiJpJPMbffmX9o1B7i
+  materia: fismat
+- day: 22/5/2018
+  desc: "Introduzione dello spin per spiegare i risultati dell'esperimento di Stern e Gerlach. Momento di dipolo di spin. Interazione spin-orbita. Prima formulazione del principio di esclusione di Pauli. Principio di indistinguibilità per particelle quantistiche identiche. Funzioni simmetriche e antisimmetriche. Conseguenze fisiche del principio di indistinguibilità. Fermioni e bosoni. Seconda formulazione del principio di esclusione di Pauli. Stati di singoletto e di tripletto. Legge di Hund."
+  link: https://drive.google.com/open?id=1D_o-FPcnYxD9pjRq8p0Xxid_xk09sqcK 
+  materia: fismod
+- day: 21/5/2018 
+  desc: "Studio dei meccanismi che portano alle regole di selezione. Regole di selezione per il numero quantico magnetico. Effetto Zeeman normale. Hamiltoniano di una carica in presenza di un campo magnetico e suo equivalente semiclassico. Spiegazione dell'effetto Zeeman con l'approccio quantistico. L'esperimento di Stern e Gerlach."
+  link: https://drive.google.com/open?id=1WY-g56mD0KZsMo6a9DA0FX3a5ISpD4im
+  materia: fismod
+- day: 18/5/2018
+  desc: "Cenni sulla soluzione della equazione di Schrodinger per potenziali centrali e per l'atomo di idrogeno. Armoniche sferiche. Discussione sulle caratteristiche degli orbitali atomici. Derivazione degli autovalori del momento angolare partendo dalle regole di commutazione."
+  link: https://drive.google.com/open?id=1w8tDnu2hVU4mV6lqdQnZKiD09qBfH0tU
+  materia: fismod
+- day: 17/5/2018
+  desc: "Svolgimento di esercizi di relatività. (Link#1) Operatori associati al modulo del momento angolare e alle sue componenti. Regole di commutazione fra gli operatori delle componenti del momento angolare. (in fondo al Link#2)"
+  link: 
+    - https://drive.google.com/open?id=1eHBWRZtn2kzayHiymLo3GRS09uxsc84W
+    - https://drive.google.com/open?id=18oeG5pBIiBOk3jsD7iF7HpnrbcHJKQ3F
+  materia: fismod
+- day: 14/5/2018
+  desc: "Calcoli di alcuni valori di aspettazione per la buca di potenziale infinita. Buca di potenziale infinita in tre dimensioni. Esistenza di tre numeri quantici e degenerazione dei livelli energetici. Equazione di Schrodinger per potenziali centrali."
+  link: https://drive.google.com/open?id=13q6EVIx29SrX0BtdOvgKv6bAo983sIaP 
+  materia: fismod
+- day: 11/5/2018
+  desc: "Proprietà generali della funzione d'onda. Equazione di Schrodinger. Valori di aspettazione. Operatori momento ed energia. Osservabili, operatori, autovalori. Equazione di Schrodinger indipendente dal tempo. Evoluzione temporale. Condizioni al contorno. Soluzione dell'equazione di Schrodinger in una buca di potenziale infinita."
+  link: https://drive.google.com/open?id=1NEEtO0VTwfbszr02q1QoqCi8ZcVMmIfl
+  materia: fismod
+- day: 10/5/2018
+  desc: "Utilizzo dell' integrale di Fourier per rappresentare un pacchetto d'onda. Caso del pacchetto d'onda gaussiano. Principio di Heisenberg come conseguenza della analisi di Fourier. Esperimenti pensati per determinare posizione e momento. Il microscopio di Heisenberg. Ridiscussione del principio di complementarietà. Alcuni cenni sul paradosso EPR, sulle disuguaglianze di Bell e sugli esperimenti per verificarle."
+  link: https://drive.google.com/open?id=12xh26E77_SCtr2YSUhLlXOM8yMztK5k6 
+  materia: fismod
+- day: 7/5/2018
+  desc: "Emissione spontanea e stimolata. Interpretazione di Einstein. Principio di funzionamento del laser. Il Laser a tre o quattro livelli. L'ipotesi di De Broglie. L'esperimento di Davidson e Germer. Giustificazione del postulato di Bohr. Funzione d'onda e sua interpretazione. Relazione tra la velocità di gruppo e velocità della particella."
+  link: https://drive.google.com/open?id=1q_-eoWmVqHsHuwyT9hbiFagrckB93OQh
+  materia: fismod
+- day: 4/5/2018
+  desc: "Modello atomico di Bohr: derivazione della formula per le righe d'emissione dell'idrogeno. Costante di struttura fine. Esperimento di Franck-Hertz. Spiegazione di Moseley dei picchi nella diffrazione a raggi X. Confronto tra modello classico e quantistico dell'atomo di idrogeno: cenni del modello atomico di Sommerfield."
+  link: https://drive.google.com/open?id=17YJ66WDweyP95Eioi2JhS4fDLLxRwsez 
+  materia: fismod
+- day: 3/5/2018
+  desc: "Il modello di Rutherford e sua soluzione. Formula di diffusione di Rutherford. Discussione sulla formula di Rutherford e sua concordanza con i dati sperimentali. Distanza di minimo avvicinamento. Dimensioni del nucleo atomico."
+  link: 
+    - https://drive.google.com/open?id=1QvcYdYl9GNGJoAVSe2QPBhurrJezzt2i
+    - https://drive.google.com/open?id=1Wk-j6C8tjucrC-gjWoEtCjGTGlwM6KQz
+  materia: fismod
+- day: 27/4/2018
+  desc: "La produzione di raggi X. Legge di Hunt. Diffrazione da un cristallo. Legge di Bragg. Spiegazione dello spettro dei raggi X tramite l’ipotesi dei fotoni. Elementi di dinamica relativistica. Calcolo dello scattering Compton e spiegazione dei dati sperimentali. Spettri atomici. Le formule di Balmer e Rydberg. Modello di Thompson. L’esperimento di Geiger e Marsden."
+  link: https://drive.google.com/open?id=1Yzhz9LjccH8Z7xv_EHE5uUfWXdz_4K6E 
+  materia: fismod
+- day: 26/4/2018
+  desc: "L'effetto fotoelettrico e la quantizzazione dell'energia. Esempi e note sugli ordini di grandezza in gioco. Esperimento dei fori di Young: introduzione al dualismo onda-particella. Principio di incompatibilità di Bohr. Effetto termoionico (cenno)."
+  link: https://drive.google.com/open?id=1C31I2beZ9z_A8_gZA-pi1qRXFUCcSy0v 
+  materia: fismod
+- day: 23/4/2018
+  desc: "L'ipotesi di Planck e la sua interpretazione dello spettro del corpo nero. La costante di Planck. Interpretazione della costante di Planck come misura minimale nello spazio delle fasi dell'oscillatore armonico. Esempi ed esercizi sul corpo nero. La radiazione cosmica di fondo."
+  link: https://drive.google.com/open?id=1JxKQ_0HAy8A7L3tXaPK-A2pQL1DUEdiK 
+  materia: fismod
+- day: 20/4/2018
+  desc: "Il modello di Rayleigh-Jeans. Calcolo della densità dei modi normali all'interno di una cavità. Modi normali come oscillatori armonici. Energia media di un modo normale. Catastrofe ultravioletta."
+  link: https://drive.google.com/open?id=1d17GALD_5svBP06DY5Ka8prGsPJ9qQG4
+  materia: fismod
+- day: 19/4/2018
+  desc: "La radiazione termica. Legge di Kirchhoff. Corpo nero. Relazione tra intensità di radiazione emessa da un corpo nero e densità di radiazione al suo interno. Proprietà della radiazione all'equilibrio termico. Pressione di radiazione. Le leggi di Stefan-Boltzmann e di Wien. Derivazione termodinamica della legge di Stefan-Boltzmann."
+  link: https://drive.google.com/open?id=1GO-_ZutSL_3rA0p3zL1_JacKDkg9YuVa
+  materia: fismod
+- day: 13/4/2018
+  desc: "Analisi del comportamento di particelle cariche in presenza di campo elettrico costante e relazione con il caso classico. Particelle cariche in presenza di campo magnetico costante. Esercizi di riepilogo sulla prima parte del corso."
+  link: https://drive.google.com/open?id=1XoaL33HIGSLadYSH7JC5x_lvnkBeEXm-
+  materia: fismod
+- day: 12/4/2018
+  desc: "Equazione di continuità. Leggi della dinamica in presenza di campi elettrici e magnetici. Trasformazione dei campi elettrici e magnetici. Invarianti del campo elettromagnetico. Studio delle trasformazioni che permettono di lavorare in presenza di un solo campo o di campi paralleli. Carica elettrica in presenza di campo elettrico costante."
+  link: https://drive.google.com/open?id=1XDN3BZc4rauVHuBLuMS4dxcXEtrroJ4N 
+  materia: fismod
+- day: 9/4/2018
+  desc: "Invarianza di gauge. Il quadripotenziale elettromagnetico. Il tensore del campo elettromagnetico. Derivazione delle equazioni di Maxwell in forma covariante. Quadricorrente e sue proprietà di trasformazione."
+  link: https://drive.google.com/open?id=13KYGsyGoJCYQIUiESJQq_IQwPKv9iXCi
+  materia: fismod
+- day: 6/4/2018
+  desc: "Esercizi di riepilogo sulla parte di dinamica relativistica. Necessità di unificazione dei fenomeni elettrici e magnetici. Equazioni di Maxwell nel sistema di Gauss e loro relazione con quelle nel sistema internazionale. Riscalamento di campi e cariche."
+  link:
+    - https://drive.google.com/open?id=1_Besx8v0gVBTLJW11exZ2EHFT8jSffVH
+    - https://drive.google.com/open?id=1CX7M1HSIFU2oOQLgTrdM1wDeapGX2csg
+  materia: fismod
+- day: 5/4/2018
+  desc: "Urto elastico di due particelle: trasferimento di energia cinetica e confronto con il caso classico. Condizione di esistenza di angoli massimi di diffusione in processi elastici. Svolgimento di esercizi di cinematica relativistica."
+  link: https://drive.google.com/open?id=13mKNmdCSRU8PZyNuGtfU4QwnrUS3EyvN
+  materia: fismod
+- day: 29/3/2018
+  desc: "Urti elastici ed anelastici. Urti inclusivi ed esclusivi. Massa invariante. Invarianti di Mandelstam. Urto elastico fra due particelle."
+  link: https://drive.google.com/open?id=1vQ5hVopSn9XS_Ay1HKxSHWvctbtaRcbr
+  materia: fismod
+- day: 26/3/2018
+  desc: "Calcolo dell'angolo massimo di emissione in un processo di decadimento. Distribuzione delle energie di decadimento per particelle a spin nullo. Esercizi sui decadimenti. Decadimento di una particella in due particelle di pari massa."
+  link: https://drive.google.com/open?id=1rdFIdDt23LOt4nG57-3iLcOg7X8e5385 
+  materia: fismod
+- day: 23/3/2018
+  desc: "Sistemi di riferimento del Laboratorio e del centro di massa. Condizioni sulle masse nei processi di decadimento. Energia di soglia. Decadimento in due particelle nel sistema di riferimento del Lab e del CM. Condizioni cinematiche per produzione di particelle in avanti."
+  link: https://drive.google.com/open?id=1CNijVLxHwqGXadaVvKp1iSMV9SarhALC
+  materia: fismod
+- day: 22/3/2018
+  desc: "Quadrigradiente e quadridivergenza. Necessità di modificare la dinamica newtoniana. Quadrivelocità e quadriaccelerazione. Quadri-impulso. Equivalenza massa-energia. Particelle con massa nulla. Quadriforza. Equazione di Minkowski. Legge di potenza. Trasformazione della quadrivelocità."
+  link: https://drive.google.com/open?id=1U7LpvBFTa5U4zTUxGyMh_l1-X75TmrHD
+  materia: fismod
+- day: 16/3/2018
+  desc: "Gruppo di Poincarè. Classificazione delle trasformazioni di Lorentz. Gruppo proprio di Lorentz. Quadrivettori controvarianti e covarianti. Tensore metrico covariante. Trasformazione grandezze covarianti. Quadritensori simmetrici e antisimmetrici. Pseudo tensore di Levi Civita. Qadritensore di Ricci di rango 4 e sue proprietà."
+  link: https://drive.google.com/open?id=1YDrF7YYgrxmW-Fjd_p8OLTgc2QFJTfV8
+  materia: fismod
+- day: 15/3/2018
+  desc: "Rotazioni nello spazio euclideo tridimensionale. Vettori e tensori. Covarianza delle leggi della dinamica. Spazio di Minkowski. Dimostrazione dell' invarianza dell'intervallo spazio temporale. Tensore metrico. Relazione di pseudo ortogonalità."
+  link: https://drive.google.com/open?id=1vNyTcc6S0HZXAmumGxycCRn75QpxT75C
+  materia: fismod
+- day: 12/3/2018
+  desc: "Effetto Doppler relativistico e legge di Hubble. Paradosso dei gemelli e sua analisi con l'utilizzo dell'effetto Doppler. Discussione del paradosso della contrazione delle lunghezze. Esercizio di riepilogo. Introduzione all'analisi geometrica dello spazio di Minkowski."
+  link: 
+    - https://drive.google.com/open?id=174B20rbAmI_-BdUwelhCbZKDaUZfCvFR
+    - https://drive.google.com/open?id=1nhFktW5zeZITLvod-EahuglxvL9Von6Z
+  materia: fismod
+- day: 9/3/2018
+  desc: "Contrazione delle lunghezze e dilatazione dei tempi. Esperimento sulla vita media dei muoni. Composizione relativistica delle velocità. Confronto con le trasformazioni galileiane delle velocità. Legge di Fresnel. Spiegazione relativistica dell'aberrazione stellare. Richiami sull'effetto Doppler classico."
+  link: https://drive.google.com/open?id=1-i2UyQAXTWkrawbZql2hDnsN8Lru9w6w
+  materia: fismod
+- day: 8/3/2018
+  desc: "Riderivazione della relatività della simultaneità. Letture temporali diverse in sistemi di riferimento diversi. Principio di causalità. Ridiscussione dei diagrammi di Minkowski. Invarianza dell'intervallo spazio-temporale. Intervalli di tipo tempo, spazio e luce e loro rappresentazione nello spazio di Minkowski."
+  link: https://drive.google.com/open?id=1irLjCgcyPKTBtQ37SQ_oRkMhv0klgtdb
+  materia: fismod
+- day: 2/3/2018
+  desc: "Ipotesi del trascinamento dell'etere. Aberrazione stellare. Esperimento di Airy. Esperimento di Fizeau. Teorie emissive. Osservazioni di De Sitter sulle stelle doppie. Postulati della relatività einsteiniana. Cenni storici. Sincronizzazione degli orologi. Relatività della simultaneità. Trasformazioni di Lorentz."
+  link: https://drive.google.com/open?id=1sqYmgEEGr4LxcnOZVvh7JneZMyZyduDE
+  materia: fismod
+- day: 1/3/2018
+  desc: "Conseguenze della non invarianza delle equazioni di Maxwell per trasformazioni di Galileo: possibili scenari. Ipotesi dell’ esistenza di un sistema di riferimento inerziale privilegiato.Tentativi di determinare l’esistenza dell’ etere con segnali extraterrestri. Esperimento di Michelson e Morley e sue conseguenze.Ipotesi della contrazione di Lorentz Fitzgerald."
+  link: https://drive.google.com/open?id=15Lz9k-_1UNe1GaoYRrdnrRPoMJMa6MiF
+  materia: fismod
+- day: 26/2/2018
+  desc: "Introduzione al corso. Trasformazioni di Galileo. Composizione delle velocità galileiana. Invarianza degli intervalli spaziali e temporali. Principio di relatività galileiana e sue conseguenze. Non invarianza delle equazioni di Maxwell per trasformazioni di Galileo."
+  link: 
+    - https://drive.google.com/open?id=1S7P4EmAcPVH8_SoGskpioRD5beLtvlRO
+    - https://drive.google.com/open?id=1d89rDl04MCK2iQIdZk3626ErYNWZFWp2
+  materia: fismod                               
 - day: 1/10/2018
   desc: "Introduzione alla MQ. Motivazione del formalismo: 4 punti che devono essere spiegati. Esempio: sparare elettroni
   contro due fenditure genera una figura d'interferenza. Prima impostazione di un esempio sulla polarizzazione dei fotoni."
@@ -85,3 +499,12 @@ Traiettoria di un proiettile in presenza di attrito: approssimazione isoterma ed
   link:
     - http://bit.ly/2C4xrMH
   materia: labo3
+- day: 9/10/2018
+  desc: "Transistor NPN e PNP, esempi, due modi di polarizzazione + esercizi."
+  link: http://bit.ly/2Ny72J7
+  materia: labo3
+- day: 9/10/2018
+  desc: "Il significato del primo postulato della Meccanica Statistica (equiprobabilità a priori), giustificazione
+   data da Boltzmann."
+  link: http://bit.ly/2E9dOWj
+  materia: mecstat
