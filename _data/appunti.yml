@@ -508,3 +508,12 @@ Traiettoria di un proiettile in presenza di attrito: approssimazione isoterma ed
    data da Boltzmann."
   link: http://bit.ly/2E9dOWj
   materia: mecstat
+- day: 10/10/2018
+  desc: "Analisi del primo postulato, introduzione del secondo"
+  link: 
+  materia: mecstat
+  note: "(Ho preso appunti direttamente in LaTeX, tempo di risistemarli decentemente e li pubblico)"
+- day: 11/10/2018
+  desc: "Formulazione Assiomatica Standard: spazio di Hilbert astratto, spazio degli stati puri, proprietà degli osservabili"
+  link: http://bit.ly/2pKoJf8
+  materia: fisteo
