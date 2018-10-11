@@ -517,3 +517,11 @@ Traiettoria di un proiettile in presenza di attrito: approssimazione isoterma ed
   desc: "Formulazione Assiomatica Standard: spazio di Hilbert astratto, spazio degli stati puri, proprietà degli osservabili"
   link: http://bit.ly/2pKoJf8
   materia: fisteo
+- day: 9/10/2018
+  desc: "Instabilità dell’algoritmo di Eulero per sistemi oscillanti. Amplificazione esponenziale degli errori nel calcolo dell’energia. Algoritmo di Eulero-Cromer.<br/>
+*(Giordano & Nakanishi - capitolo 3, sezione 3.1)*<br/> 
+Eulero-Cromer come algoritmo simplettico. Cenni sugli algoritmi simplettici. Algoritmo di Stormer-Verlet. Regola di \“starting\” 
+*(Stickler & Schachinger - capitolo 5: sezione 5.2 e capitolo 7: sezione 7.2 - Giordano & Nakanishi - Appendice A 
+S&S introduce Eulero-Cromer come \"Eulero simplettico\" in 5.4)*"
+  materia: comput
+  latex: http://bit.ly/2CEjwOr
