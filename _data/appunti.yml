@@ -494,6 +494,8 @@ Traiettoria di un proiettile in presenza di attrito: approssimazione isoterma ed
     - http://bit.ly/2CwFIdo
     - http://bit.ly/2y76ghg
   materia: fisteo
+  latex: http://bit.ly/2OinRNi
+  note: "Il file $$\\LaTeX$$ contiene gli appunti risistemati delle lezioni tra il 4/10 e l'8/10, con annesse note esplicative personali :)"
 - day: 8/10/2018
   desc: "**Transistor BJT**, funzionamento e regimi di attivazione diretta, saturazione e cutoff. Esercizi sui transistor."
   link:
