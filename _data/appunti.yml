@@ -527,3 +527,15 @@ Eulero-Cromer come algoritmo simplettico. Cenni sugli algoritmi simplettici. Alg
 S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
   materia: comput
   latex: http://bit.ly/2CEjwOr
+- day: 12/10/2018
+  materia: fisteo
+  desc: "Proprietà degli osservabili in MQ e loro traduzione nelle proprietà degli operatori che li rappresentano."
+  link: http://bit.ly/2CELyZZ
+- day: 12/10/2018
+  materia: comput
+  latex: http://bit.ly/2PB84WM
+  desc: "Algoritmi di Verlet: trattazione generale"
+- day: 12/10/2018
+  materia: labo3
+  desc: "Gli amplificatori: descrizione teorica generale e modelli. Introduzione agli amplificatori operazionali."
+  link: http://bit.ly/2OSJ9AB
