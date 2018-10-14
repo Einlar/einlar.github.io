@@ -11,4 +11,8 @@ order: 5
 ---
 
 Appunti del corso di Fisica Moderna (II anno, 2017/8).<br/>
-Prof. Franco Simonetto (canale M-Z)
+Prof. Franco Simonetto (canale M-Z)<br/>
+Sono disponibili degli **appunti in Latex**:
+- [Relatività](http://bit.ly/2AaLcYL)
+- [Formulario](http://bit.ly/2PFH8EY) di Relatività
+- [Meccanica quantistica](http://bit.ly/2Cf1qS8)

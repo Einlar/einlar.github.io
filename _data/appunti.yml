@@ -534,7 +534,8 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
 - day: 12/10/2018
   materia: comput
   latex: http://bit.ly/2PB84WM
-  desc: "Algoritmi di Verlet: trattazione generale"
+  desc: "Algoritmi di Verlet, Verlet-velocità, leap-frog. Equivalenza fra i diversi schemi di Verlet. Algoritmi di mid-point e di Eulero-Richardson (mid-point esplicito).<br/> 
+*(Stickler & Schachinger - capitolo 5: sezione 5.2 e capitolo 7: sezione 7.2 - Giordano & Nakanishi - Appendice A)*"
 - day: 12/10/2018
   materia: labo3
   desc: "Gli amplificatori: descrizione teorica generale e modelli. Introduzione agli amplificatori operazionali."
