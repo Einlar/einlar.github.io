@@ -512,9 +512,9 @@ Traiettoria di un proiettile in presenza di attrito: approssimazione isoterma ed
   materia: mecstat
 - day: 10/10/2018
   desc: "Analisi del primo postulato, introduzione del secondo"
-  link: 
+  link: http://bit.ly/2R07SAH
   materia: mecstat
-  note: "(Ho preso appunti direttamente in LaTeX, tempo di risistemarli decentemente e li pubblico)"
+  note: "(Ho preso appunti direttamente in LaTeX, tempo di risistemarli decentemente e li pubblico - per ora c'è solo la prima bozza)"
 - day: 11/10/2018
   desc: "Formulazione Assiomatica Standard: spazio di Hilbert astratto, spazio degli stati puri, proprietà degli osservabili"
   link: http://bit.ly/2pKoJf8
@@ -540,3 +540,22 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
   materia: labo3
   desc: "Gli amplificatori: descrizione teorica generale e modelli. Introduzione agli amplificatori operazionali."
   link: http://bit.ly/2OSJ9AB
+- day: 15/10/2018
+  materia: labo3
+  desc: "Amplificatori operazionali: configurazione non invertente e invertente, con esercizi."
+  link: http://bit.ly/2QV9uv9
+- day: 15/10/2018
+  materia: fisteo
+  desc: "Struttura probabilistica per operatori. Definizione di famiglia spettrale ed esempio. **Assioma delle osservabili**, **assioma della probabilità**. Osservazioni su autoaggiuntezza e probabilità"
+  link: http://bit.ly/2Cld9OX
+- day: 16/10/2018
+  materia: fisteo
+  desc: "Ulteriore esempio di famiglia spettrale. Spettro di un operatore, e **assioma dello spettro**. Osservazioni sulla natura dello spettro, differenza tra spettro continuo e discreto."
+  link: http://bit.ly/2Aeh6DF
+- day: 16/10/2018
+  materia: comput
+  desc: "(Lezione saltata per impegni istituzionali del Prof.)"
+  link:
+- day: 11/10/2018
+  materia: comput
+  desc: "Laboratorio di informatica: esercizio sulla bicicletta e sul moto parabolico di un proiettile (CFR moodle)"
