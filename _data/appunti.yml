@@ -559,3 +559,26 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
 - day: 11/10/2018
   materia: comput
   desc: "Laboratorio di informatica: esercizio sulla bicicletta e sul moto parabolico di un proiettile (CFR moodle)"
+- day: 17/10/2018
+  materia: fisteo
+  desc: "Considerazioni sullo spettro di un operatore, Formalismo di Dirac (parte 1)"
+  link: http://bit.ly/2ySaiJU
+- day: 18/10/2018
+  materia: fisteo
+  desc: "Formalismo di Dirac (parte 2) - formalizzazione matematica, vantaggi e svantaggi. Esercizio sul momento in MQ."
+  link: http://bit.ly/2yrvEyv
+- day: 19/10/2018
+  materia: fisteo
+  desc: "Analisi nel dettaglio di come scegliere diversi domini per l'operatore momento produce operatori che descrivono diverse osservabili, o nessun operatore.
+  Effetto di Aharonov-Bohm. Fase di Berry. Stati misti in MQ"
+  link: http://bit.ly/2RXsRoO
+- day: 19/10/2018
+  materia: labo3
+  desc: "Varie configurazioni di circuiti con operazionali: amplificatori di somme e differenze. Esempi ed esercizi."
+  link: http://bit.ly/2CSi2Aj
+- day: 18/10/2018
+  materia: comput
+  desc: "(Laboratorio di informatica: CFR moodle)"
+- day: 19/10/2018
+  materia: comput
+  note: "(Aggiungerò gli appunti nei prossimi giorni)"
