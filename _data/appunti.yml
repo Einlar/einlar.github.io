@@ -572,6 +572,10 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
   desc: "Analisi nel dettaglio di come scegliere diversi domini per l'operatore momento produce operatori che descrivono diverse osservabili, o nessun operatore.
   Effetto di Aharonov-Bohm. Fase di Berry. Stati misti in MQ"
   link: http://bit.ly/2RXsRoO
+- day: 22/10/2018
+  materia: labo3
+  desc: "Amplificatori operazionali come amplificatori di transconduttanza: configurazioni floating e grounded, esercizi ed esempi."
+  link: http://bit.ly/2Rc6lHR
 - day: 19/10/2018
   materia: labo3
   desc: "Varie configurazioni di circuiti con operazionali: amplificatori di somme e differenze. Esempi ed esercizi."
