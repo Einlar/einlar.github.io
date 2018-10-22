@@ -7,4 +7,4 @@ icon: fa-plus-circle
 categories: placeholder
 ---
 Secondo post. 
-Lo aggiungo così non si nota il fatto che, quando una sezione contiene meno di 2 articoli, jquery dia un bug tentando di accedere ad un array che in realtà non esiste, e che non sono ancora riuscito a correggere questo problema. Massì, nessuno se ne accorgerà mai.
+Lo aggiungo così non si nota il fatto che, quando una sezione contiene meno di 2 articoli, jquery dia un bug tentando di accedere ad un array che in realtà non esiste, e che non sono ancora riuscito a correggere questo problema. Massì, nessuno se ne accorgerà mai. Test
