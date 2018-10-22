@@ -37,5 +37,5 @@ i\hbar \frac{\partial}{\partial t}\psi(\vec{r},t) &= \left [\frac{-\hbar^2}{2\mu
 \end{aligned}
 \end{cases}
 {% endhighlight %}
-Sono sicuro che la cosa avrà una certa utilità *in futuro*.
+Sono sicuro che la cosa avrà forse una certa utilità *in futuro*.
 
