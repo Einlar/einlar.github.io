@@ -583,6 +583,9 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
   materia: comput
   note: "(Aggiungerò gli appunti nei prossimi giorni)"
 - day: 22/10/2018
-  materia: labo3
-  desc: "Amplificatori operazionali come amplificatori di transconduttanza: configurazioni floating e grounded, esercizi ed esempi."
-  link: http://bit.ly/2Rc6lHR
+  materia: fisteo
+  desc: "Evoluzione temporale in MQ nella notazione di Heisenberg e Schrodinger. Approcco di Dirac: omogeneità del tempo + traslabilità richiede che l'evoluzione
+   sia data da operatori unitari. Azioni di gruppo e rappresentazione proiettiva. Teorema di Bargmann: si può studiare una rappresentazione proiettiva sul suo rivestimento, in modo
+    che sia unitaria (più semplice matematicamente). Teorema di Stone: evoluzione temporale come 'flusso' di un operatore autoaggiunto. **Assioma dell'evoluzione degli stati puri**, osservazioni
+     sull'equazione di Schrodinger."
+  link: http://bit.ly/2S4myjk
