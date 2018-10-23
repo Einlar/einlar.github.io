@@ -602,4 +602,4 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
   desc: "Giustificazione del secondo postulato: l'entropia così definita è estensiva e, in un sistema isolato, può solo crescere. <br/>
   Applicazione dei postulati al caso dei gas ideali: derivazione delle formule per l'energia e della legge dei gas perfetti."
   latex: http://bit.ly/2PfPfvb
-  note: "Gli appunti in $$\\Latex$$ sono in *presa diretta*, e non li ho ancora ricontrollati - non come altri LaTeX qui pubblicati che sono frutto di revisione."
+  note: "Gli appunti in $$\\LaTeX$$ sono in *presa diretta*, e non li ho ancora ricontrollati - non come altri LaTeX qui pubblicati che sono frutto di revisione."
