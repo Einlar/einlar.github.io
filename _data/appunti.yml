@@ -603,3 +603,7 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
   Applicazione dei postulati al caso dei gas ideali: derivazione delle formule per l'energia e della legge dei gas perfetti."
   latex: http://bit.ly/2PfPfvb
   note: "Gli appunti in $$\\LaTeX$$ sono in *presa diretta*, e non li ho ancora ricontrollati - non come altri LaTeX qui pubblicati che sono frutto di revisione."
+- day: 24/10/2018
+  materia: mecstat
+  desc: "Paradosso di Gibbs. Esercizio sul primo postulato (calcolo del numero di particelle in un certo volume all'equilibrio). Ensemble canonico, potenziale termodinamico: energia libera di Helmholtz."
+  latex: http://bit.ly/2OL7PMg
