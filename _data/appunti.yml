@@ -607,3 +607,7 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
   materia: mecstat
   desc: "Paradosso di Gibbs. Esercizio sul primo postulato (calcolo del numero di particelle in un certo volume all'equilibrio). Ensemble canonico, potenziale termodinamico: energia libera di Helmholtz."
   latex: http://bit.ly/2OL7PMg
+- day: 25/10/2018
+  materia: fisteo
+  desc: "Evoluzione temporale per stati misti. Esempio: buca infinito dimensionale in MC e MQ, analisi delle differenze"
+  link: http://bit.ly/2SiGije
