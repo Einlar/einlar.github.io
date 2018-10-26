@@ -611,3 +611,12 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
   materia: fisteo
   desc: "Evoluzione temporale per stati misti. Esempio: buca infinito dimensionale in MC e MQ, analisi delle differenze"
   link: http://bit.ly/2SiGije
+- day: 26/10/2018
+  materia: labo3
+  desc: "Ulteriori esempi dell'uso delle trasformate di Laplace. Applicazione: filtri con operazionali. Esempi + esercizio per casa."
+  link: http://bit.ly/2EKcKsj
+- day: 26/10/2018
+  materia: fisteo
+  desc: "Calcoli di probabilità di misure per spettro discreto e continuo. Confronto tra il risultato (sbagliato) di risolvere l'equazione per una $$\\ket{\\psi}$$ non in $$D(H)$$ e quello corretto con la decomposizione
+   spettrale. Descrizione di cosa accada ad uno stato a seguito di una misura (sistema non più isolato)."
+  link: http://bit.ly/2OOytnw
