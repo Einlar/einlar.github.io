@@ -625,3 +625,6 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
   desc: "Evoluzione temporale: differenze tra fisica classica e MQ. Evoluzione di medie e fluttuazioni di posizione e momento per una particella libera.
    Esempio: buca infinitamente profonda in $$\\mathbb{R}^3$$."
   link: http://bit.ly/2ALOgLh
+- day: 5/11/2018
+  materia: labo3
+  desc: "Mosfet: introduzione, caratteristiche, funzionamento. Diapositive sul moodle (Mosfet1.pdf) fino a 22"
