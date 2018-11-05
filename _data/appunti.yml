@@ -620,3 +620,8 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
   desc: "Calcoli di probabilità di misure per spettro discreto e continuo. Confronto tra il risultato (sbagliato) di risolvere l'equazione per una $$\\langle{\\psi}\\lvert$$ non in $$D(H)$$ e quello corretto con la decomposizione
    spettrale. Descrizione di cosa accada ad uno stato a seguito di una misura (sistema non più isolato)."
   link: http://bit.ly/2OOytnw
+- day: 5/11/2018
+  materia: fisteo
+  desc: "Evoluzione temporale: differenze tra fisica classica e MQ. Evoluzione di medie e fluttuazioni di posizione e momento per una particella libera.
+   Esempio: buca infinitamente profonda in $$\\mathbb{R}^3$$."
+  link: http://bit.ly/2ALOgLh
