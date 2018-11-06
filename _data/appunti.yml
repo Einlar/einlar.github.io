@@ -585,6 +585,11 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
   desc: "(Laboratorio di informatica: CFR moodle)"
 - day: 19/10/2018
   materia: comput
+  desc: "
+  Algoritmi di mid-point implicito ed esplicito come metodi di Runge-Kutta.<br/>
+Metodo generale di Runge-Kutta a s passi per ODE del primo ordine Tableau di Butcher. Condizione per metodi espliciti di Runge-Kutta.<br/>
+Condizioni per metodi di Runge-Kutta di ordine m. Condizione per metodi di Runge-Kutta simplettici. <br/>
+*(Stickler & Schachinger - capitolo 5: sezione 5.3 (per Runge-Kutta in generale) e 5.4 (per Runge-Kutta simplettici) - Giordano & Nakanishi - Appendice A)*  "
   note: "(Aggiungerò gli appunti nei prossimi giorni)"
 - day: 22/10/2018
   materia: fisteo
@@ -628,3 +633,25 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
 - day: 5/11/2018
   materia: labo3
   desc: "Mosfet: introduzione, caratteristiche, funzionamento. Diapositive sul moodle (Mosfet1.pdf) fino a 22"
+- day: 23/10/2018
+  materia: comput
+  desc: "Esempi di Tableau di Butcher per metodi espliciti di Runge-Kutta<br/>
+Famiglia di metodi espliciti di Runge-Kutta di ordine 2. Metodo di Heun (end-point). Metodo classico di Runge-Kutta di ordine 4.<br/>
+*(Stickler & Schachinger - capitolo 5: sezione 5.3 - Giordano & Nakanishi - Appendice A)*<br/>
+Problema del pendolo non lineare smorzato e forzato. Impredicibilita' di un sistema caotico deterministico. Instabilita' esponenziale.<br/>
+Transizione verso il regime caotico: esponenti di Lyapunov, sezione di Poincare' e raddoppio del periodo<br/>
+*(Giordano & Nakanishi - capitolo 3: sezione 3.2, 3.3, 3.4)*"
+  note: "Aggiungerò gli appunti più avanti, non appena li avrò risistemati - indicativamente non prima dell'11/11"
+- day: 26/10/2018
+  materia: comput
+  desc: "Classificazione delle PDE. Problemi di Cauchy e problemi con condizioni al contorno.<br/>
+Consistenza, stabilita’ e convergenza di un algoritmo. Teorema di equivalenza di Lax.<br/>
+*(Numerical Recipes: capitolo 19, sezione 19.0)*"
+  link:
+- day: 6/11/2018
+  materia: comput
+  desc: "PDE ellittiche. Equazioni di Laplace e di Poisson. Operatore Laplaciano discretizzato.<br/>
+Metodi di rllassamento: metodo di Jacobi.<br/>
+Relazione fra metodo di Jacobi ed equazione di diffusione. <br/>
+Metodo di Gauss-Seidel e metodi di super-rilassamento.<br/>
+*(Giordano & Nakanishi - capitolo 5: sezione 5.1, 5.2)*"
