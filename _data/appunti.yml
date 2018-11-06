@@ -633,6 +633,7 @@ Condizioni per metodi di Runge-Kutta di ordine m. Condizione per metodi di Runge
 - day: 5/11/2018
   materia: labo3
   desc: "Mosfet: introduzione, caratteristiche, funzionamento. Diapositive sul moodle (Mosfet1.pdf) fino a 22"
+<<<<<<< HEAD
 - day: 23/10/2018
   materia: comput
   desc: "Esempi di Tableau di Butcher per metodi espliciti di Runge-Kutta<br/>
@@ -655,3 +656,9 @@ Metodi di rllassamento: metodo di Jacobi.<br/>
 Relazione fra metodo di Jacobi ed equazione di diffusione. <br/>
 Metodo di Gauss-Seidel e metodi di super-rilassamento.<br/>
 *(Giordano & Nakanishi - capitolo 5: sezione 5.1, 5.2)*"
+=======
+- day: 31/10/2018
+  materia: mecstat
+  desc: "(Appunti di Mattia Morgavi)"
+  link: http://bit.ly/2RDFk04
+>>>>>>> 251a8a0a8e2444061e56d52e9e6e58af75b9f501
