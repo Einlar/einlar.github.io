@@ -668,3 +668,7 @@ Metodo di Gauss-Seidel e metodi di super-rilassamento.<br/>
 - day: 6/11/2018
   materia: labo3
   desc: "MOSFET - teoria (diapositive su *Mosfet1.pdf* da 22 alla fine)"
+- day: 7/11/2018
+  materia: fisteo
+  desc: "Analisi di autovalori di e autofunzioni dell'operatore $$H$$ nel caso di un potenziale a gradino (e confronto con il caso classico)"
+  link: http://bit.ly/2z5SVqf
