@@ -672,3 +672,7 @@ Metodo di Gauss-Seidel e metodi di super-rilassamento.<br/>
   materia: fisteo
   desc: "Analisi di autovalori di e autofunzioni dell'operatore $$H$$ nel caso di un potenziale a gradino (e confronto con il caso classico)"
   link: http://bit.ly/2z5SVqf
+- day: 8/11/2018
+  materia: fisteo
+  desc: "Conclusione dell'analisi del potenziale a gradino. Particella con potenziale di barriera: analisi e differenze con la MC."
+  link: http://bit.ly/2DucrAe
