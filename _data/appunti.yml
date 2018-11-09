@@ -676,3 +676,14 @@ Metodo di Gauss-Seidel e metodi di super-rilassamento.<br/>
   materia: fisteo
   desc: "Conclusione dell'analisi del potenziale a gradino. Particella con potenziale di barriera: analisi e differenze con la MC."
   link: http://bit.ly/2DucrAe
+- day: 8/11/2018
+  materia: comput
+  desc: "Laboratorio di informatica: risoluzione dell'equazione di Laplace (CFR Moodle)"
+- day: 9/11/2018
+  materia: fisteo
+  desc: "Analisi del sistema della buca con profondità finita. Considerazioni qualitative sulle autofunzioni per un potenziale $$V(x)$$ generico. Esercizio (numerico) sulla buca infinitamente profonda."
+  link: http://bit.ly/2QwDoGk
+- day: 9/11/2018
+  materia: labo3
+  desc: "Descrizione delle misure dell'esperienza di laboratorio sui MOSFET. Introduzione all'utilizzo di MOSFET come amplificatori."
+  link: http://bit.ly/2DdrxJp
