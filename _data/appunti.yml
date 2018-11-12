@@ -687,3 +687,7 @@ Metodo di Gauss-Seidel e metodi di super-rilassamento.<br/>
   materia: labo3
   desc: "Descrizione delle misure dell'esperienza di laboratorio sui MOSFET. Introduzione all'utilizzo di MOSFET come amplificatori."
   link: http://bit.ly/2DdrxJp
+- day: 12/11/2018
+  materia: fisteo
+  desc: "Principio di indeterminazione: caso generale (con dimostrazione). Osservabili compatibili e commutatività (dimostrazione nel caso a spettro discreto)."
+  link: http://bit.ly/2T44QwR
