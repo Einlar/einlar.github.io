@@ -645,7 +645,6 @@ Transizione verso il regime caotico: esponenti di Lyapunov, sezione di Poincare'
 - day: 26/10/2018
   materia: comput
   desc: "Classificazione delle PDE. Problemi di Cauchy e problemi con condizioni al contorno.<br/>
-Consistenza, stabilita’ e convergenza di un algoritmo. Teorema di equivalenza di Lax.<br/>
 *(Numerical Recipes: capitolo 19, sezione 19.0)*"
   link: http://bit.ly/2APAtn3
 - day: 6/11/2018
@@ -691,3 +690,13 @@ Metodo di Gauss-Seidel e metodi di super-rilassamento.<br/>
   materia: fisteo
   desc: "Principio di indeterminazione: caso generale (con dimostrazione). Osservabili compatibili e commutatività (dimostrazione nel caso a spettro discreto)."
   link: http://bit.ly/2T44QwR
+- day: 12/11/2018
+  materia: labo3
+  desc: "Circuiti amplificatori con MOSFET, relativamente all'esperienza in laboratorio + esercizio numerico."
+  link: http://bit.ly/2QH8RpG
+- day: 13/11/2018
+  materia: comput
+  desc: "Consistenza, stabilità e convergenza di un algoritmo. Teorema di equivalenza di Lax.<br/>
+Metodi per problemi iperbolici: schema FTCS. Analisi di stabilità di von Neumann. Metodo di Lax. Metodo staggered leap-frog.<br/>
+*(Numerical Recipes: capitolo 19, sezione 19.1)*"
+  link: 
