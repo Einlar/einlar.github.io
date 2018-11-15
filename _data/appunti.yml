@@ -708,3 +708,8 @@ Metodi per problemi iperbolici: schema FTCS. Analisi di stabilità di von Neuman
   materia: mecstat
   desc: "Esercizi (continuazione di quelli già iniziati + nuovi), introduzione alla meccanica statistica quantistica."
   link: http://bit.ly/2zTRJFV
+- day: 15/11/2018
+  materia: fisteo
+  desc: "Osservabili dipendenti e indipendenti. Insiemi completi di osservabili compatibili indipendenti. Insiemi completi e completezza (di Dirac) della base di autovettori comuni (+ dim). Insieme Completo di Osservabili Compatibili (ICOC)
+   + caso per spettro arbitrario. Definizione precisa di rappresentazione. Insiemi irriducibili. Esercizio (numerico) + consegna per casa."
+  link: http://bit.ly/2Q6Vli5
