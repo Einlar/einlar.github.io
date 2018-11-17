@@ -13,4 +13,4 @@ Appunti della parte di Meccanica Quantistica del corso di Istituzioni di Fisica 
 Prof. P. Marchetti.
 
 A questo [indirizzo](http://bit.ly/2CZHl3d) trovate il **file** in **LaTeX** con gli appunti riordinati del corso, nella sua versione più completa, dove *più completa* non significa *comprensiva di tutto*. Potrebbero infatti esserci sezioni non ancora trascritte, o mancare ancora parti già pubblicate in LaTeX nella tabella qui sotto, ma che devono ancora essere ulteriormente revisionate/integrate col resto. In ogni caso, tutte le correzioni che avrò da fare le applicherò direttamente a questa versione, e non alle "bozze" linkate nella tabella e corrispondenti a un qualche giorno.<br/>
-**Aggiornamento** (13/11/18): Aggiunta la lezione di lunedì 7/11. Sì, manca ancora la parte del 17-18/10 sulla notazione di Dirac e sono indietro con le lezioni della scorsa settimana... wish me luck, pls.
+**Aggiornamento** (17/11/18): Aggiunta la lezione di martedì 8/11. Conto di procedere con le altre in questo weekend, le ultime due sono state piuttosto calcolose - ma ora dovrebbe tornare tutto.
