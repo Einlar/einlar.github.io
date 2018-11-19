@@ -726,3 +726,7 @@ Metodi per problemi iperbolici: schema FTCS. Analisi di stabilità di von Neuman
   desc: "Sistemi composti in MQ: gli stati del sistema composto si trovano nello spazio di Hilbert dato dal prodotto tensore degli spazi di Hilbert delle singole particelle (assioma
    dei sistemi composti). Entanglement quantistico. Definizione di simmetria fisica, simmetria dinamica. Corrispondenza tra simmetrie e leggi di conservazione. Cenni di teoria dei gruppi."
   link: http://bit.ly/2qTjQkk
+- day: 19/11/2018
+  materia: labo3
+  desc: "Esercizi di riepilogo su op amp, BJT, MOSFET."
+  link: http://bit.ly/2TryJYg
