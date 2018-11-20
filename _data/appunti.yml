@@ -738,3 +738,7 @@ in generale l'approccio di questo libro è a un livello più avanzato che per un
   desc: "Condizione di stabilità per lo schema FTCS applicato all’equazione della diffusione.<br/>
 Schemi impliciti: algoritmi di Laasonen e di Crank-Nicholson<br/> 
 *(Numerical Recipes: capitolo 19, sezione 19.2)*"
+  link: http://bit.ly/2KgnRrU
+- day: 20/11/2018
+  materia: mecstat
+  desc: "(Lezione non tenuta causa imprevisto del professore)"
