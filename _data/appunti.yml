@@ -742,3 +742,8 @@ Schemi impliciti: algoritmi di Laasonen e di Crank-Nicholson<br/>
 - day: 20/11/2018
   materia: mecstat
   desc: "(Lezione non tenuta causa imprevisto del professore)"
+- day: 21/11/2018
+  materia: mecstat
+  desc: "Ensemble microcanonico, canonico e grancanonico in meccanica statistica quantistica. Stati quantistici di un sistema a N particelle a volume finito.
+   Conseguenze dell'indistinguibilità delle particelle: il principio di esclusione di Pauli."
+  link: http://bit.ly/2KpVlnU
