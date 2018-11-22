@@ -747,3 +747,7 @@ Schemi impliciti: algoritmi di Laasonen e di Crank-Nicholson<br/>
   desc: "Ensemble microcanonico, canonico e grancanonico in meccanica statistica quantistica. Stati quantistici di un sistema a N particelle a volume finito.
    Conseguenze dell'indistinguibilità delle particelle: il principio di esclusione di Pauli."
   link: http://bit.ly/2KpVlnU
+- day: 22/11/2018
+  materia: fisteo
+  desc: "Simmetrie, gruppi e generatori. Il caso delle traslazioni spaziali e delle rotazioni."
+  link: http://bit.ly/2r0tzWk
