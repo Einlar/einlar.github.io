@@ -751,3 +751,7 @@ Schemi impliciti: algoritmi di Laasonen e di Crank-Nicholson<br/>
   materia: fisteo
   desc: "Simmetrie, gruppi e generatori. Il caso delle traslazioni spaziali e delle rotazioni."
   link: http://bit.ly/2r0tzWk
+- day: 23/11/2018
+  materia: fisteo
+  desc: "Rotazioni e il gruppo SO(3). SU(2) come ricoprimento universale di SO(3). Conseguenze dell'algebra per gli autovalori comuni a $$\\vec{J}^2$$ e $$J_z$$."
+  link: http://bit.ly/2BrTImE
