@@ -759,3 +759,14 @@ Schemi impliciti: algoritmi di Laasonen e di Crank-Nicholson<br/>
   materia: fisteo
   desc: "Armoniche sferiche, introduzione allo spin"
   link: http://bit.ly/2zulZHZ
+- day: 27/11/2018
+  materia: mecstat
+  desc: "Grancanonico quantistico: gas di fermioni e bosoni."
+  link: http://bit.ly/2DJyl1X
+- day: 27/11/2018
+  materia: comput
+  desc: "Metodo FTCS e metodi impliciti per l'equazione di Schrodinger. Condizione di unitarietà: algoritmo di Crank-Nicholson nel caso generale.<br/> 
+Soluzione di sistemi lineari tridiagonali: cenni a metodi generali per soluzione di sistemi lineari.<br/>
+*Metodi per equazione di Schrodinger: Numerical Recipes: capitolo 19, sezione 19.2; Stickler & Schachinger - capitolo 11, sezione 11.5; Giordano & Nakanishi - capitolo 10, sezione 10.5*<br/>
+*Soluzione di sistemi lineari: Giordano & Nakanishi - Appendice H*"
+  link: http://bit.ly/2DMi8sF
