@@ -782,3 +782,9 @@ Soluzione di sistemi lineari tridiagonali: cenni a metodi generali per soluzione
   materia: fisteo
   desc: "L'oscillatore armonico quantistico: teoria + esercizio."
   link: http://bit.ly/2SmKDS2
+- day: 30/11/2018
+  materia: comput
+  desc: "Metodi deterministici per il calcolo di integrali. <br/>
+Formula di Eulero-Maclaurin. Regola dei rettangoli e dei trapezi. Regole di Simpson. <br/>
+*Giordano & Nakanishi - appendice E*"
+  link: http://bit.ly/2BJBsWb
