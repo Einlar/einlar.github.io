@@ -788,3 +788,11 @@ Soluzione di sistemi lineari tridiagonali: cenni a metodi generali per soluzione
 Formula di Eulero-Maclaurin. Regola dei rettangoli e dei trapezi. Regole di Simpson. <br/>
 *Giordano & Nakanishi - appendice E*"
   link: http://bit.ly/2BJBsWb
+- day: 3/12/2018
+  materia: fisteo
+  desc: "Analisi del potenziale centrale"
+  link: http://bit.ly/2rgQqwV
+- day: 3/12/2018
+  materia: labo3
+  desc: "Esercizi op amp e BJT + es. per casa (manca un dato, $$R_d = 5k\\Omega$$)"
+  link: http://bit.ly/2zCC52s
