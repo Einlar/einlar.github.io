@@ -796,3 +796,12 @@ Formula di Eulero-Maclaurin. Regola dei rettangoli e dei trapezi. Regole di Simp
   materia: labo3
   desc: "Esercizi op amp e BJT + es. per casa (manca un dato, $$R_d = 5k\\Omega$$)"
   link: http://bit.ly/2zCC52s
+- day: 4/12/2018
+  materia: comput
+  desc: "Problemi con valori al contorno per ODE: metodi di shooting. Metodo di Numerov per risolvere l'equazione
+   di Schrodinger indipendente dal tempo. Metodo della bisezione per trovare gli zeri di una funzione. <br/>
+   Problemi con valori al contorno: *Stickler & Schachinger - capitolo 8, sezione 8.1* <br/>
+   Metodi di shooting: *Stickler & Schachinger - capitolo 8, sezione 8.3*<br/>
+   Metodo di Numerov per l'eq. di Schrodinger: *Stickler & Schachinger - capitolo 10, sezione 10.3*<br/>
+   Metodo della bisezione: *Giordano & Nakanishi - Appendice B, sezione B.1*"
+  link: http://bit.ly/2E0KWh6
