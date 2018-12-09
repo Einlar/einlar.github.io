@@ -805,6 +805,10 @@ Formula di Eulero-Maclaurin. Regola dei rettangoli e dei trapezi. Regole di Simp
    Metodo di Numerov per l'eq. di Schrodinger: *Stickler & Schachinger - capitolo 10, sezione 10.3*<br/>
    Metodo della bisezione: *Giordano & Nakanishi - Appendice B, sezione B.1*"
   link: http://bit.ly/2E0KWh6
+- day: 4/12/2018
+  materia: fisteo
+  desc: "Stati legati per l'atomo di idrogeno"
+  link: http://bit.ly/2ruF20y
 - day: 5/12/2018
   materia: mecstat
   desc: ""
