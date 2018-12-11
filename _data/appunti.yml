@@ -825,3 +825,15 @@ Formula di Eulero-Maclaurin. Regola dei rettangoli e dei trapezi. Regole di Simp
   materia: fisteo
   desc: "Scattering quantistico: parte finale. Distinguibilità di particelle identiche: confronto tra MC e MQ, conseguenze."
   link: http://bit.ly/2PuMbHI
+- day: 11/12/2018
+  materia: comput
+  desc: "Cenni a generatori di numeri pseudo-casuali. Generatori LCG.<br/>
+Campionamento di distribuzioni: metodo della trasformata inversa. Metodo di Box-Muller per la distribuzione Gaussiana.<br/>
+Campionamento di distribuzioni: Rejection Method. Cenni su metodi Bayesiani.<br/>
+Generatori di numeri casuali: *Stickler & Schachinger - capitolo 12: sezioni 12.1, 12.2*<br/>
+Campionamento di distribuzioni: *Stickler & Schachinger - capitolo 13: sezioni 13.1, 13.2, 13.3*"
+  link: http://bit.ly/2zRYU1U
+- day: 11/12/2018
+  materia: mecstat
+  desc: "La (non) condensazione in 2D e 1D. La condensazione quantistica. Distribuzione di Maxwell-Boltzmann quantistica."
+  link: http://bit.ly/2L96NES
