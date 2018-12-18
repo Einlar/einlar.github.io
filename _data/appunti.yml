@@ -849,3 +849,20 @@ Calcolo di integrali con metodi Monte Carlo: metodi Sample Mean e Importance Sam
 Numerical Recipes - cap. 7: sezioni 7.6, 7.8 (NON la parte su metodi adattativi)<br/>
 Giordano & Nakanishi - appendice E: sezione E.4*"
   link: http://bit.ly/2QBvoZ1
+- day: 18/12/2018
+  materia: mecstat
+  desc: "Confronto tra statistiche quantistiche e classiche: il limite classico, energia e momento di Fermi."
+  link: http://bit.ly/2S8HWnp
+- day: 13/12/2018
+  materia: fisteo
+  desc: "I potenziali periodici: il teorema di Bloch. Esercizio sul potenziale periodico del modello di un *reticolo cristallino*: spettro discreto a bande, momento di Fermi."
+  link: http://bit.ly/2UUnrfF
+- day: 14/12/2018
+  materia: fisteo
+  desc: "Teorema delle perturbazioni indipendenti dal tempo, ed esempio di applicazione (effetto Stark)"
+  link: http://bit.ly/2UUZN2F
+- day: 17/12/2018
+  materia: fisteo
+  desc: "Discussione dell'effetto Stark tramite teoria perturbativa, e confronto con i risultati sperimentali. Osservazione di Oppenheimer sulla possibilità, non contemplata dalle perturbazioni, di effetto tunnel
+   e spettro continuo: motivazione del perché ciò non viene osservato. Esercizio sull'oscillatore armonico. Introduzione al paradosso EPR."
+  link: http://bit.ly/2Guu9WH
