@@ -841,3 +841,11 @@ Campionamento di distribuzioni: *Stickler & Schachinger - capitolo 13: sezioni 1
   materia: fisteo
   desc: "Le conseguenze dell'indistinguibilità di particelle quantistiche: il principio di esclusione di Pauli."
   link: http://bit.ly/2PBwJcZ
+- day: 18/12/2018
+  materia: comput
+  desc: "Tecniche stocastiche per il calcolo di integrali definiti: metodo Hit or Miss.<br/> 
+Calcolo di integrali con metodi Monte Carlo: metodi Sample Mean e Importance Sampling <br/>
+*Stickler & Schachinger - capitolo 14: sezioni 14.1 (HIt or Miss), 14.2 (Sample Mean); capitolo 18: sezione 18.2 (Importance Sampling) 
+Numerical Recipes - cap. 7: sezioni 7.6, 7.8 (NON la parte su metodi adattativi)<br/>
+Giordano & Nakanishi - appendice E: sezione E.4*"
+  link: http://bit.ly/2QBvoZ1
