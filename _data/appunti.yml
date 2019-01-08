@@ -590,7 +590,8 @@ S&S introduce Eulero-Cromer come Eulero simplettico in 5.4)*"
 Metodo generale di Runge-Kutta a s passi per ODE del primo ordine Tableau di Butcher. Condizione per metodi espliciti di Runge-Kutta.<br/>
 Condizioni per metodi di Runge-Kutta di ordine m. Condizione per metodi di Runge-Kutta simplettici. <br/>
 *(Stickler & Schachinger - capitolo 5: sezione 5.3 (per Runge-Kutta in generale) e 5.4 (per Runge-Kutta simplettici) - Giordano & Nakanishi - Appendice A)*  "
-  note: "(Aggiungerò gli appunti nei prossimi giorni)"
+  note: "Appunti di Mattia Morgavi"
+  link: http://bit.ly/2sdwKdF
 - day: 22/10/2018
   materia: fisteo
   desc: "Evoluzione temporale in MQ nella notazione di Heisenberg e Schrodinger. Approcco di Dirac: omogeneità del tempo + traslabilità richiede che l'evoluzione
@@ -641,7 +642,8 @@ Famiglia di metodi espliciti di Runge-Kutta di ordine 2. Metodo di Heun (end-poi
 Problema del pendolo non lineare smorzato e forzato. Impredicibilita' di un sistema caotico deterministico. Instabilita' esponenziale.<br/>
 Transizione verso il regime caotico: esponenti di Lyapunov, sezione di Poincare' e raddoppio del periodo<br/>
 *(Giordano & Nakanishi - capitolo 3: sezione 3.2, 3.3, 3.4)*"
-  note: "Aggiungerò gli appunti più avanti, non appena li avrò risistemati - indicativamente non prima dell'11/11"
+  note: "Appunti di Mattia Morgavi"
+  link: http://bit.ly/2TCmaIV
 - day: 26/10/2018
   materia: comput
   desc: "Classificazione delle PDE. Problemi di Cauchy e problemi con condizioni al contorno.<br/>
@@ -874,3 +876,17 @@ Giordano & Nakanishi - appendice E: sezione E.4*"
   materia: fisteo
   desc: "Il paradosso EPR e le disuguaglianze di Bell. Il gatto di Schrödinger. Riepilogo finale degli argomenti del corso (ultima lezione)."
   link: http://bit.ly/2LuPePI
+- day: 8/1/2018
+  materia: comput
+  desc: "Introduzione ai metodi Monte Carlo e ai processi di Markov.<br/>
+Cenni al modello di Ising. Temperature di Curie. Magnetizzazione spontanea.<br/>
+Condizione di stazionarietà e bilancio dettagliato. Test di Metropolis. Termalizzazione e tempo di correlazione <br/>
+ALGORITMO DI METROPOLIS E CATENE DI MARKOV <br/>
+*Stickler & Schachinger - capitolo 14, sezione 14.3 (introduzione generale a Metropolis e bilancio dettagliato) *<br/>
+*Stickler & Schachinger - capitolo 18, sezione 18.2 (Metropolis-Hastings -> distinzione fra probabilità di selezione e accettazione) *<br/>
+*Stickler & Schachinger - capitolo 16, sezione 16.4 (processi di Markov discreti, bilancio dettagliato e convergenza del processo di Markov: l'approccio e' MOLTO piu' completo/rigoroso dei pochi cenni fatti a lezione) *<br/>
+*Stickler & Schachinger - capitolo 19, sezione 19.3 (funzione di autocorrelazione) <br/>
+MODELLO DI ISING<br/>
+*Stickler & Schachinger - capitolo 15, sezioni 15.1 (solo la definizione del modello) 15.2,15.3*<br/>
+*Giordano & Nakanishi - capitolo 8, sezioni 8.1,8.3,8.4*"
+  link: 
