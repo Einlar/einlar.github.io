@@ -894,3 +894,7 @@ MODELLO DI ISING<br/>
   materia: mecstat
   desc: "Esercizi dal file 2018.pdf"
   link: http://bit.ly/2FkBMNX
+- day: 11/1/2019
+  materia: labo3
+  desc: "Spettroscopia: detector. (+ diapositive sull'analisi dei fit dal Moodle)"
+  link: http://bit.ly/2CeIxNl
