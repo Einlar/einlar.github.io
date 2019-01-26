@@ -898,3 +898,16 @@ MODELLO DI ISING<br/>
   materia: labo3
   desc: "Spettroscopia: detector. (+ diapositive sull'analisi dei fit dal Moodle)"
   link: http://bit.ly/2CeIxNl
+- day: 14/1/2019
+  materia: mecstat
+  desc: "Esercizi (saranno caricati prossimamente)"
+- day: 18/1/2019
+  materia: labo3
+  desc: "Funzionamento del detector per le esperienze del secondo semestre"
+  note: "Sarà caricata prossimamente"
+- day: 15/1/2019
+  materia: comput
+  desc: "Frustrazione in sistemi complessi: proprietà dell'energy landscape. Frustrazione nei vetri di spin.<br/>
+  Tecniche di ottimizzazione stocastica: Simulated Annealing.<br/>
+  *Stickler & Schachinger - capitolo 20, sezione 20.3*"
+  link: http://bit.ly/2CLXCGu
