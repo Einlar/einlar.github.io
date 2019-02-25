@@ -904,10 +904,19 @@ MODELLO DI ISING<br/>
 - day: 18/1/2019
   materia: labo3
   desc: "Funzionamento del detector per le esperienze del secondo semestre"
-  note: "Sarà caricata prossimamente"
+  link: http://bit.ly/2ICfBWf
 - day: 15/1/2019
   materia: comput
   desc: "Frustrazione in sistemi complessi: proprietà dell'energy landscape. Frustrazione nei vetri di spin.<br/>
   Tecniche di ottimizzazione stocastica: Simulated Annealing.<br/>
   *Stickler & Schachinger - capitolo 20, sezione 20.3*"
   link: http://bit.ly/2CLXCGu
+- day: 25/2/2019
+  materia: labo3
+  desc: "Detector per spettroscopia - parte 3"
+  note: "Saranno caricati entro qualche giorno"
+- day: 25/2/2019
+  materia: nucleare
+  desc: "Introduzione al corso, breve ripasso di alcuni concetti basilari di MQ"
+  note: "Saranno caricati entro qualche giorno"
+
