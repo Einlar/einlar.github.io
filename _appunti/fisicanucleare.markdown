@@ -6,7 +6,7 @@ date:   2019-2-24 21:36:09 +0200
 categories: appunti
 tabella: true
 materia: nucleare
-icon: fa-radiation
+icon: fa-bomb
 order: 8
 ---
 
