@@ -920,4 +920,8 @@ MODELLO DI ISING<br/>
   materia: nucleare
   desc: "Introduzione al corso, breve ripasso di alcuni concetti basilari di MQ"
   note: "Saranno caricati entro qualche giorno"
+- day: 26/2/2019
+  desc: "Scale di energia, dimensioni, tempo per la fisica nucleare. Principali unità di misura utilizzate. I costituenti fondamentali del nucleo e loro proprietà.
+  Distribuzione di materia all'interno del nucleo, misure di scattering. La carta dei nuclidi di Segrè."
+  link: http://bit.ly/2BQyuPi
 
