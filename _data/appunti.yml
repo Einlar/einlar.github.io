@@ -938,3 +938,8 @@ MODELLO DI ISING<br/>
   materia: materia
   desc: "Introduzione agli spettri atomici: lo spettro dell'idrogeno, principali serie (Balmer, Lyman, Paschen...), costante di Rydberg. Il caso dei metalli alcalini. Righe sharp (s), principal (p) e diffuse (d)."
   link: http://bit.ly/2tEn3We
+- day: 27/2/2019
+  materia: infoquant
+  desc: "Introduzione al corso, lista degli argomenti che saranno trattati. La natura dell'informazione come entità fisica, connessione tra informazione ed entropia, diavoletto di Maxwell e principio di Landauer.
+  Porte logiche classiche, qubit e sfera di Bloch."
+  link: http://bit.ly/2Efk3oi
