@@ -929,4 +929,12 @@ MODELLO DI ISING<br/>
   materia: labo3
   desc: "Sensori per fotoni al silicio/camere di scintillazione. Descrizione dell'esperienza gamma."
   note: "In lavorazione"
-
+- day: 27/2/2019
+  materia: nucleare
+  desc: "Categorizzazione della tavola di Segrè dei nuclidi: isotopi, isotoni, isobari (+nuclei speculari) e isomeri. 
+  Modello \"a goccia di liquido\" del nucleo atomico: principali proprietà. Introduzione al termine di Volume per la formula della massa nucleare."
+  link: http://bit.ly/2VnbJtr
+- day: 27/2/2019
+  materia: materia
+  desc: "Introduzione agli spettri atomici: lo spettro dell'idrogeno, principali serie (Balmer, Lyman, Paschen...), costante di Rydberg. Il caso dei metalli alcalini. Righe sharp (s), principal (p) e diffuse (d)."
+  link: http://bit.ly/2tEn3We
