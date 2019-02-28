@@ -943,3 +943,14 @@ MODELLO DI ISING<br/>
   desc: "Introduzione al corso, lista degli argomenti che saranno trattati. La natura dell'informazione come entità fisica, connessione tra informazione ed entropia, diavoletto di Maxwell e principio di Landauer.
   Porte logiche classiche, qubit e sfera di Bloch."
   link: http://bit.ly/2Efk3oi
+- day: 28/2/2019
+  materia: materia
+  desc: "Modello atomico di Bohr e Sommerfeld."
+  note: "In lavorazione"
+  link: 
+- day: 28/2/2019
+  materia: infoquant
+  desc: "Informazione contenuta in un qubit. Principali porte logiche quantistiche: Hadamard, Phase Shift, C-NOT, C-PHASE. Funzioni di qubit, problema dell'unitarietà,
+   parallelismo quantistico. Esempi di calcolo."
+  note: "In lavorazione"
+  link: http://bit.ly/2NwEnpi
