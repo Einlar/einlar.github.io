@@ -947,7 +947,12 @@ MODELLO DI ISING<br/>
   materia: materia
   desc: "Modello atomico di Bohr e Sommerfeld."
   note: "In lavorazione"
-  link: 
+  link: http://bit.ly/2ISoNWm
+- day: 1/3/2019
+  materia: materia
+  desc: "Il modello quantomeccanico per l'idrogeno"
+  note: "In lavorazione"
+  link: http://bit.ly/2XF01wb
 - day: 28/2/2019
   materia: infoquant
   desc: "Informazione contenuta in un qubit. Principali porte logiche quantistiche: Hadamard, Phase Shift, C-NOT, C-PHASE. Funzioni di qubit, problema dell'unitarietà,
@@ -959,3 +964,7 @@ MODELLO DI ISING<br/>
   desc: "Il modello atomico a goccia di liquido: termini di volume, superficie, interazione coulombiana, asimmetria e parità. Formula di massa, energia di estrazione
    di nucleoni. Parabola di massa e stabilità degli isobari."
   link: http://bit.ly/2XCplmH
+- day: 4/3/2019
+  materia: labo3
+  desc: "Descrizione dell'esperimento Zeeman"
+  note: "In lavorazione"
