@@ -968,3 +968,26 @@ MODELLO DI ISING<br/>
   materia: labo3
   desc: "Descrizione dell'esperimento Zeeman"
   note: "In lavorazione"
+- day: 5/3/2019
+  materia: nucleare
+  desc: "Stabilità di isobari con $$A$$ pari. Energie di legame per nuclei speculari.
+  Il modello a gas di Fermi: introduzione e ipotesi. La buca quadrata infinita in $$d=1$$ e $$d=3$$. Momento ed energia di Fermi, estensione 
+  ad un modello a buca finita.<br>
+  *Diap. 29-36 4.pdf, 1-14 3.pdf*"
+  link: http://bit.ly/2VFqN60
+- day: 6/3/2019
+  materia: nucleare
+  desc: "Energia cinetica media per nucleone nel modello di Fermi. Relazione tra densità di nucleoni e momento di Fermi. 
+  Introduzione ai processi di fusione/fissione nucleare.<br>
+  *Diap. 14-17 4.pdf, 1-2 5.pdf*"
+  link: http://bit.ly/2TsJBrK
+- day: 6/3/2019
+  materia: materia
+  desc: "Interazioni intermolecolari: dipoli permanenti, dipoli indotti, dipoli istantanei (forze di Van der Waals)."
+  link: http://bit.ly/2tSgpvL
+  note: "In lavorazione (+immagini mancanti)"
+- day: 6/3/2019
+  materia: infoquant
+  desc: 
+  link:
+  note: "In lavorazione"
