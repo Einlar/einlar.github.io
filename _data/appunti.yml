@@ -988,7 +988,12 @@ MODELLO DI ISING<br/>
   note: "(immagini mancanti)"
 - day: 6/3/2019
   materia: infoquant
-  desc: 
-  link:
-  note: "In lavorazione"
+  desc: "Teletrasporto quantistico. Misure senza interazione: l'interferometro di Mach-Zehnden. Introduzione al paradosso di Zenone quantistico."
+  link: http://bit.ly/2ETl4DY
+- day: 7/3/2019
+  materia: materia
+  desc: "Teoria delle perturbazioni indipendenti dal tempo (caso senza degenerazione) + 3 esercizi di applicazione"
+  link: http://bit.ly/2SRe7qS
+  note: "In lavorazione (+immagini mancanti)"
+
   
