@@ -995,6 +995,14 @@ MODELLO DI ISING<br/>
   desc: "Teoria delle perturbazioni indipendenti dal tempo (caso senza degenerazione) + 3 esercizi di applicazione"
   link: http://bit.ly/2SRe7qS
   note: "In lavorazione (+immagini mancanti)"
+- day: 7/3/2019
+  materia: infoquant
+  desc: "L'effetto Zenone quantistico: derivazione matematica tramite proiettori di Von Neumann. Survival probability vista come effetto
+   di una evoluzione non unitaria generata da una Hamiltoniana non hermitiana. Effetto Zenone prodotto da strong coupling con l'ambiente esterno.
+   Origine delle Hamiltoniane non hermitiane a partire da una visuale parziale di un sistema interagente che evolve unitariamente.<br/>
+   Esercizio: evoluzione unitaria dell'Hamiltoniana di una porta NOT quantistica."
+  link: http://bit.ly/2Htn2g8
+  note: "In lavorazione, devo risistemare ancora l'ultima parte."
 - day: 11/3/2019
   materia: nucleare
   desc: "Fissione e fusione nucleari. Diap. 3-19 da 5.pdf"
