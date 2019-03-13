@@ -957,7 +957,7 @@ MODELLO DI ISING<br/>
   materia: infoquant
   desc: "Informazione contenuta in un qubit. Principali porte logiche quantistiche: Hadamard, Phase Shift, C-NOT, C-PHASE. Funzioni di qubit, problema dell'unitarietà,
    parallelismo quantistico. Esempi di calcolo."
-  note: "In lavorazione"
+  note: "Corretto un errore nella risoluzione del II esercizio. Aggiunta risoluzione completa del III esercizio."
   link: http://bit.ly/2NwEnpi
 - day: 4/3/2019
   materia: nucleare
@@ -990,6 +990,7 @@ MODELLO DI ISING<br/>
   materia: infoquant
   desc: "Teletrasporto quantistico. Misure senza interazione: l'interferometro di Mach-Zehnden. Introduzione al paradosso di Zenone quantistico."
   link: http://bit.ly/2ETl4DY
+  note: "Corrette le fasi nel Beam-Splitter e altri refusi"
 - day: 7/3/2019
   materia: materia
   desc: "Teoria delle perturbazioni indipendenti dal tempo (caso senza degenerazione) + 3 esercizi di applicazione"
@@ -1012,5 +1013,19 @@ MODELLO DI ISING<br/>
   materia: nucleare
   desc: "Il deutone: modello quantistico analitico. DIap. 1-10 da 6.pdf"
   link: http://bit.ly/2CiIDnY
+- day: 13/3/2019
+  materia: nucleare
+  desc: "Ultimi dettagli del modello quantistico del deutone: momento di dipolo magnetico e momento di quadrupolo elettrico. Richiami di teoria di MQ."
+  link: http://bit.ly/2VPWz0e
+- day: 13/3/2019
+  materia: materia
+  desc: "Interazione spin-orbita per l'elettrone in un atomo di idrogeno (+ caso di atomi con più elettroni). Termine aggiuntivo
+   per l'Hamiltoniana quantistica. Composizione dei momenti angolari. L'interazione tra $$\\vec{L}$$ e $$\\vec{S}$$ produce un moto giroscopico di precessione."
+  link: http://bit.ly/2HrHC0q
+  note: "In lavorazione (immagini mancanti)"
+- day: 13/3/2019
+  materia: infoquant
+  desc: ""
+  link:
 
   
