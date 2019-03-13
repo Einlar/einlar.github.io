@@ -1003,7 +1003,7 @@ MODELLO DI ISING<br/>
    Origine delle Hamiltoniane non hermitiane a partire da una visuale parziale di un sistema interagente che evolve unitariamente.<br/>
    Esercizio: evoluzione unitaria dell'Hamiltoniana di una porta NOT quantistica."
   link: http://bit.ly/2Htn2g8
-  note: "In lavorazione, devo risistemare ancora l'ultima parte."
+  note: "Prima revisione completata!"
 - day: 11/3/2019
   materia: nucleare
   desc: "Fissione e fusione nucleari. Diap. 3-19 da 5.pdf"
@@ -1025,7 +1025,8 @@ MODELLO DI ISING<br/>
   note: "In lavorazione (immagini mancanti)"
 - day: 13/3/2019
   materia: infoquant
-  desc: ""
-  link:
+  desc: "Matrici densità: definizioni e proprietà principali, evoluzione temporale, caso dei sistemi composti. Esempi di conti con matrici densità."
+  link: http://bit.ly/2HoI54r
+  note: "In lavorazione"
 
   
