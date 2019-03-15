@@ -1037,4 +1037,9 @@ MODELLO DI ISING<br/>
   materia: infoquant
   desc: ""
   link: 
+  note: "Sarà caricata tra qualche giorno"
+- day: 15/3/2019
+  materia: materia
+  desc: "Effetto Stark (quadratico e lineare) ed Effetto Zeeman (normale e anomalo, in trattazione classica e semiclassica vettoriale)"
+  link: http://bit.ly/2u79tef
   
