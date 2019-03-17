@@ -985,7 +985,7 @@ MODELLO DI ISING<br/>
   materia: materia
   desc: "Interazioni intermolecolari: dipoli permanenti, dipoli indotti, dipoli istantanei (forze di Van der Waals)."
   link: http://bit.ly/2tSgpvL
-  note: "(immagini mancanti)"
+  note: "(Aggiunte immagini!)"
 - day: 6/3/2019
   materia: infoquant
   desc: "Teletrasporto quantistico. Misure senza interazione: l'interferometro di Mach-Zehnden. Introduzione al paradosso di Zenone quantistico."
@@ -995,7 +995,7 @@ MODELLO DI ISING<br/>
   materia: materia
   desc: "Teoria delle perturbazioni indipendenti dal tempo (caso senza degenerazione) + 3 esercizi di applicazione"
   link: http://bit.ly/2SRe7qS
-  note: "In lavorazione (+immagini mancanti)"
+  note: "In lavorazione (Aggiunte immagini!)"
 - day: 7/3/2019
   materia: infoquant
   desc: "L'effetto Zenone quantistico: derivazione matematica tramite proiettori di Von Neumann. Survival probability vista come effetto
@@ -1004,6 +1004,11 @@ MODELLO DI ISING<br/>
    Esercizio: evoluzione unitaria dell'Hamiltoniana di una porta NOT quantistica."
   link: http://bit.ly/2Htn2g8
   note: "Prima revisione completata!"
+- day: 8/3/2019
+  materia: materia
+  desc: "Teoria delle perturbazioni indipendenti dal tempo: il caso di autovalori degeneri. Equazione secolare e sua risoluzione. Due esercizi di applicazione."
+  link: http://bit.ly/2HoecB7
+  note: "In lavorazione"
 - day: 11/3/2019
   materia: nucleare
   desc: "Fissione e fusione nucleari. Diap. 3-19 da 5.pdf"
@@ -1022,7 +1027,7 @@ MODELLO DI ISING<br/>
   desc: "Interazione spin-orbita per l'elettrone in un atomo di idrogeno (+ caso di atomi con più elettroni). Termine aggiuntivo
    per l'Hamiltoniana quantistica. Composizione dei momenti angolari. L'interazione tra $$\\vec{L}$$ e $$\\vec{S}$$ produce un moto giroscopico di precessione."
   link: http://bit.ly/2HrHC0q
-  note: "In lavorazione (immagini mancanti)"
+  note: "In lavorazione (Aggiunte immagini!)"
 - day: 13/3/2019
   materia: infoquant
   desc: "Matrici densità: definizioni e proprietà principali, evoluzione temporale, caso dei sistemi composti. Esempi di conti con matrici densità."
@@ -1042,4 +1047,5 @@ MODELLO DI ISING<br/>
   materia: materia
   desc: "Effetto Stark (quadratico e lineare) ed Effetto Zeeman (normale e anomalo, in trattazione classica e semiclassica vettoriale)"
   link: http://bit.ly/2u79tef
+  note: "In lavorazione"
   
