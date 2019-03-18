@@ -1048,4 +1048,9 @@ MODELLO DI ISING<br/>
   desc: "Effetto Stark (quadratico e lineare) ed Effetto Zeeman (normale e anomalo, in trattazione classica e semiclassica vettoriale)"
   link: http://bit.ly/2u79tef
   note: "In lavorazione"
+- day: 18/3/2019
+  materia: nucleare
+  desc: "Introduzione del modello nucleare a shell: approssimazioni, scelta del potenziale di campo medio (oscillatore armonico, Woods-Saxon, perturbazione di spin-orbita).
+   Split dei livelli degeneri e origine dei numeri magici."
+  link: http://bit.ly/2XYbIyi
   
