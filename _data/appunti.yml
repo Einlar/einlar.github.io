@@ -1003,7 +1003,7 @@ MODELLO DI ISING<br/>
    Origine delle Hamiltoniane non hermitiane a partire da una visuale parziale di un sistema interagente che evolve unitariamente.<br/>
    Esercizio: evoluzione unitaria dell'Hamiltoniana di una porta NOT quantistica."
   link: http://bit.ly/2Htn2g8
-  note: "Prima revisione completata!"
+  note: "Prima revisione completata! La conclusione dell'esercizio sarà aggiunta a breve."
 - day: 8/3/2019
   materia: materia
   desc: "Teoria delle perturbazioni indipendenti dal tempo: il caso di autovalori degeneri. Equazione secolare e sua risoluzione. Due esercizi di applicazione."
@@ -1040,9 +1040,10 @@ MODELLO DI ISING<br/>
   note: "In lavorazione"
 - day: 14/3/2019
   materia: infoquant
-  desc: ""
-  link: 
-  note: "Sarà caricata tra qualche giorno"
+  desc: "Definizione di correlazione. Solo gli stati entangled possono presentare correlazione. Come riconoscere stati entangled: 
+   decomposizione e rango di Schmidt. Purificazione di uno stato misto. Teorema di rappresentazione di Kraus."
+  link: http://bit.ly/2Cs3khj
+  note: "Resta da sistemare la conclusione dell'esercizio iniziato il 7/3, che sarà riportata negli appunti di quel giorno appena sarà pronta."
 - day: 15/3/2019
   materia: materia
   desc: "Effetto Stark (quadratico e lineare) ed Effetto Zeeman (normale e anomalo, in trattazione classica e semiclassica vettoriale)"
@@ -1053,4 +1054,9 @@ MODELLO DI ISING<br/>
   desc: "Introduzione del modello nucleare a shell: approssimazioni, scelta del potenziale di campo medio (oscillatore armonico, Woods-Saxon, perturbazione di spin-orbita).
    Split dei livelli degeneri e origine dei numeri magici."
   link: http://bit.ly/2XYbIyi
+- day: 19/3/2019
+  materia: nucleare
+  desc: "Costruzione dei livelli nel modello a shell. Vari esempi di applicazione: previsione di momento angolare e parità del livello fondamentale per nuclei arbitrari.
+  Introduzione al modello collettivo per eccitazioni a bassa energia."
+  link: 
   
