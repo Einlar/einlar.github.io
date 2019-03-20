@@ -1057,6 +1057,21 @@ MODELLO DI ISING<br/>
 - day: 19/3/2019
   materia: nucleare
   desc: "Costruzione dei livelli nel modello a shell. Vari esempi di applicazione: previsione di momento angolare e parità del livello fondamentale per nuclei arbitrari.
-  Introduzione al modello collettivo per eccitazioni a bassa energia."
+  Introduzione al modello collettivo per eccitazioni a bassa energia. Diap. 11-16 7.pdf, 1-7 8.pdf"
   link: http://bit.ly/2UIIrpf
+- day: 20/3/2019
+  materia: nucleare
+  desc: "Modello collettivo: descrizione di deformazioni di una superficie sferica in termini del solo termine quadrupolare. Quantizzazione delle variabili del sistema, Hamiltoniana di 
+   piccole oscillazioni attorno alla forma sferica, risoluzione con spettro armonico. Confronto con risultati sperimentali e cenni di sviluppi ulteriori."
+  link: http://bit.ly/2JqL8uJ
+- day: 20/3/2019
+  materia: materia
+  desc: ""
+  link:
+  note: "In lavorazione"
+- day: 20/3/2019
+  materia: infoquant
+  desc: ""
+  link:
+  note: "In lavorazione"
   
