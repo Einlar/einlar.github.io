@@ -1062,12 +1062,12 @@ MODELLO DI ISING<br/>
 - day: 20/3/2019
   materia: nucleare
   desc: "Modello collettivo: descrizione di deformazioni di una superficie sferica in termini del solo termine quadrupolare. Quantizzazione delle variabili del sistema, Hamiltoniana di 
-   piccole oscillazioni attorno alla forma sferica, risoluzione con spettro armonico. Confronto con risultati sperimentali e cenni di sviluppi ulteriori."
+   piccole oscillazioni attorno alla forma sferica, risoluzione con spettro armonico. Confronto con risultati sperimentali e cenni di sviluppi ulteriori. Diap. 8-21 8.pdf"
   link: http://bit.ly/2JqL8uJ
 - day: 20/3/2019
   materia: materia
-  desc: ""
-  link:
+  desc: "Due esercizi sul calcolo di perturbazioni per effetto spin-orbita e per effetto Zeeman (atomi multielettronici)"
+  link: http://bit.ly/2Fjd91H
   note: "In lavorazione"
 - day: 20/3/2019
   materia: infoquant
