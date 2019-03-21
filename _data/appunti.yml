@@ -1085,7 +1085,9 @@ MODELLO DI ISING<br/>
   note: "In lavorazione"
 - day: 21/3/2019
   materia: infoquant
-  desc: 
-  link:
+  desc: "Definizione generale di canale quantistico. Interpretazione geometrica di trasformazioni a 1 qubit come deformazioni della sfera di Bloch.
+   Canali a 1 qubit: bit-flip, phase-flip, bit-phase-flip, depolarizing, amplitude/phase damping. Esempio canale a 2 qubit: distruzione dell'entanglement. 
+    Evoluzione generale di un sistema quantistico: la Master Equation."
+  link: http://bit.ly/2Fih3YW
   note: "In lavorazione"
   
