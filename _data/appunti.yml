@@ -1094,3 +1094,8 @@ MODELLO DI ISING<br/>
   materia: materia
   desc: "Descrizione quantomeccanica dell'atomo di elio. Trattazione perturbativa della repulsione elettrone-elettrone."
   link: http://bit.ly/2HGoD3h
+- day: 25/3/2019
+  materia: nucleare
+  desc: "Introduzione ai decadimenti radioattivi: classificazione (potere penentrante/dinamica in campi elettromagnetici). 
+  Il decadimento $$\\alpha$$: proprietà ed esempi, bilanciamento energetico. Modello quantistico per l'origine della varietà dei tempi di decadimento."
+  link: http://bit.ly/2UQueGZ
