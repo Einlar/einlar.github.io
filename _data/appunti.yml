@@ -1097,5 +1097,31 @@ MODELLO DI ISING<br/>
 - day: 25/3/2019
   materia: nucleare
   desc: "Introduzione ai decadimenti radioattivi: classificazione (potere penentrante/dinamica in campi elettromagnetici). 
-  Il decadimento $$\\alpha$$: proprietà ed esempi, bilanciamento energetico. Modello quantistico per l'origine della varietà dei tempi di decadimento."
+  Il decadimento $$\\alpha$$: proprietà ed esempi, bilanciamento energetico. Modello quantistico per l'origine della varietà dei tempi di decadimento.
+  Diap. 1-28 9.pdf"
   link: http://bit.ly/2UQueGZ
+- day: 26/3/2019
+  materia: nucleare
+  desc: "Decadimento $$\\alpha$$: modello quantistico per i tempi di decadimento. Esempi di catene di decadimento. <br/>
+   Decadimento $$\\beta$$: proprietà ed esempi. Spettro energetico e motivazione (processo a tre corpi), calcolo dell'energia di end-point. Golden Rule di Fermi per la probabilità 
+   di transizione: analisi dei termini di densità degli stati e funzione correttiva di Fermi.<br/>
+   Diap. 28-36 9.pdf, 1-23 10.pdf"
+  link: http://bit.ly/2Ug3iDA
+  note: "Vi sono incompletezze segnalate (fare ref. alle diapositive). Nei prossimi giorni saranno completate."
+- day: 27/3/2019
+  materia: nucleare
+  desc: "La natura dell'elemento di matrice $$M$$. Esempi di valori numerici. Distinzione tra transizioni permesse/proibite. Transizioni di Fermi/Gamow. Transizioni super-permesse.
+   Esempi vari"  
+  Diap. 24-38 10.pdf"
+  link: http://bit.ly/2HJNbZc
+  note: "Vi sono incompletezze segnalate (fare ref. alle diapositive). Nei prossimi giorni saranno completate."
+- day: 27/3/2019
+  materia: materia
+  desc: "Determinazione dello stato fondamentale per atomi multielettronici: il metodo di Hartree."
+  link: http://bit.ly/2JTk5bI
+- day: 27/3/2019
+  materia: infoquant
+  desc: "Cenni di crittografia classica, il problema della distribuzione delle chiavi. Quantum Key Distribution: il protocollo BB84. Esempi, tecniche (classiche) per incrementarne
+   la sicurezza, potenziali attacchi. Canale di Dense Coding: trasmissione di 2 bit classici al prezzo di un solo qubit."
+  link: http://bit.ly/2uuthIH
+  note: "In lavorazione"
