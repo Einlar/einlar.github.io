@@ -1165,12 +1165,14 @@ MODELLO DI ISING<br/>
   materia: infoquant
   desc: "Teoria dell'informazione classica: Entropia di Shannon, Teorema del Noiseless Coding. Generalizzazione al caso quantistico:
    entropia di Von Neumann + esempio di calcolo"
+  note: "In lavorazione..."
   link: http://bit.ly/2TXVXnV
 - day: 4/4/2019
   materia: infoquant
   desc: "Quantum Noiseless Coding (Teorema di Schumacher). Caratterizzazione dell'entanglement: discrizione tra correlazioni classiche (LOCC) e quantistiche.
    Misura di entanglement + esempio. Dimostrazione dell'impossibilità di dense coding con sole correlazioni classiche. Esercizio sulle matrici ridotte."
   link: http://bit.ly/2D9GBr1
+  note: "In lavorazione..."
 - day: 4/4/2019
   materia: materia
   desc: "Ione idrogeno H2+ e ione idrogeno H2 - metodi variazionali 
