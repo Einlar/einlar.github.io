@@ -1140,7 +1140,7 @@ MODELLO DI ISING<br/>
   materia: materia
   desc: "Atomi multielettronici: calcolo dei termini spettroscopici, regole di Hund per l'energia.
    Introduzione ai legami chimici. Il principio di Born-Oppenheimer."
-  link: 
+  link: http://bit.ly/2UyfG1R
 - day: 1/4/2019
   materia: nucleare
   desc: "Esempi di decadimento beta: determinazione delle possibili transizioni tra due stati dati. Decadimento gamma: caratteristiche, bilanciamento energetico.
@@ -1151,3 +1151,34 @@ MODELLO DI ISING<br/>
   desc: "Decadimento gamma: calcolo di probabilità di transizione, stime di Weisskopf. Andamenti funzionali delle varie probabilità di transizione in funzione dell'energia emessa dal gamma e di A.
    Esempi vari. La sezione d'urto: definizione. Introduzione alle interazioni radiazioni-materia. Diap. 17-25 11.pdf, 1-4 12.pdf, 1-3 13.pdf"
   link: http://bit.ly/2K10u9x
+- day: 3/4/2019
+  materia: nucleare
+  desc: "Effetto Compton e pair-production, caratteristiche, spettri, bilanci energetici. Sezione d'urto totale,
+   attenuazione della radiazione nella materia, coefficiente di attenuazione lineare. Diap. 4-18 13.pdf"
+  link: http://bit.ly/2YMDXAk
+- day: 3/4/2019
+  materia: materia
+  desc: "Esercizi sugli atomi multielettronici"
+  link: http://bit.ly/2WKNHJN
+  note: "Figure mancanti"
+- day: 3/4/2019
+  materia: infoquant
+  desc: "Teoria dell'informazione classica: Entropia di Shannon, Teorema del Noiseless Coding. Generalizzazione al caso quantistico:
+   entropia di Von Neumann + esempio di calcolo"
+  link: http://bit.ly/2TXVXnV
+- day: 4/4/2019
+  materia: infoquant
+  desc: "Quantum Noiseless Coding (Teorema di Schumacher). Caratterizzazione dell'entanglement: discrizione tra correlazioni classiche (LOCC) e quantistiche.
+   Misura di entanglement + esempio. Dimostrazione dell'impossibilità di dense coding con sole correlazioni classiche. Esercizio sulle matrici ridotte."
+  link: http://bit.ly/2D9GBr1
+- day: 4/4/2019
+  materia: materia
+  desc: "Ione idrogeno H2+ e ione idrogeno H2 - metodi variazionali 
+  + perturbativi"
+  note: "Parte iniziale della lezione è mancante"
+  link: http://bit.ly/2CYPAey
+- day: 5/4/2019
+  materia: materia
+  desc: "[Missing]"
+  note: "(Non ero presente a lezione)"
+  link: 
