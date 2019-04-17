@@ -1192,7 +1192,7 @@ MODELLO DI ISING<br/>
 - day: 9/4/2019
   materia: nucleare
   desc: "Introduzione alla fisica subnucleare: le particelle fondamentali previste dal modello standard, classificazione generale, particelle mediatrici delle interazioni
-   fondamentali e loro range. Diap. 1-11 1.pdf, cenni a "
+   fondamentali e loro range. Diap. 1-11 1.pdf"
   link: http://bit.ly/2Kh2muK
 - day: 10/4/2019
   materia: nucleare
@@ -1201,3 +1201,25 @@ MODELLO DI ISING<br/>
   materia: materia
   desc: "[Missing]"
   note: "Non ero presente a lezione"
+- day: 15/4/2019
+  materia: nucleare
+  desc: "Recap di relatività speciale. Unità di misura e principali definizioni per la fisica subnucleare. Fenomenologia: scattering
+   e decadimenti. Sezioni d'urto, definizioni.<br/>
+   Tutte le diapositive di 1.pdf e 2.pdf"
+  note: "Vi sono diverse parti mancanti (fare riferimento alle diapositive)"
+  link: http://bit.ly/2XlMMzO
+- day: 16/4/2019
+  materia: nucleare
+  desc: "Interazione tra particelle (cariche massive, elettroni, fotoni, adroni) e materia. Rivelatori: scintillatori, radiazione Cerenkov.<br/>
+  Diap. 1-18 4.pdf, 1-7 5.pdf"
+  link: http://bit.ly/2XmVuhk
+- day: 17/4/2019
+  materia: nucleare
+  desc: "Principali rivelatori di particelle: camere a nebbia, a bolle, a ionizzazione (regimi ed esempi).<br/>
+  Diap. 9-18 5.pdf"
+  link: http://bit.ly/2KOD47x
+- day: 17/4/2019
+  materia: infoquant
+  desc: "Algoritmi quantistici: algoritmo di Deutsch e algoritmo di Grover"
+  link: http://bit.ly/2XooJjN
+  note: "In lavorazione..."
