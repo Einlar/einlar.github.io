@@ -1223,3 +1223,10 @@ MODELLO DI ISING<br/>
   desc: "Algoritmi quantistici: algoritmo di Deutsch e algoritmo di Grover"
   link: http://bit.ly/2XooJjN
   note: "In lavorazione..."
+- day: 18/4/2019
+  materia: infoquant
+  desc: "Algoritmo di Grover - interpretazione geometrica. Quantum Discrete Fourier Transform (QFT). 
+  Crittografia asimmetrica: l'algoritmo RSA. Introduzione all'algoritmo di Shor: equivalenza tra 
+  fattorizzazione in numeri primi e ricerca del periodo di una certa funzione."
+  link: http://bit.ly/2UIK0rA
+  note: "In lavorazione..."
