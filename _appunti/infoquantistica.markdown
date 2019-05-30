@@ -13,4 +13,4 @@ order: 10
 Appunti del corso di Introduzione alla Teoria Quantistica dell'Informazione (III anno, 2018/9).<br/>
 Prof. Montangero.<br/>
 
-**Aggiornamento 9/5** Sto revisionando accuratamente le ultime lezioni, raccogliendo tutto quanto in un .pdf unico con tutto (sull'idea di quanto già fatto per Fisica Teorica). Se tutto va bene sarà caricato qui entro i primi di giugno.
+**Aggiornamento 30/5** Conto di caricare le ultime lezioni non appena possibile, ed editare eventuali informazioni mancanti/errori segnalati nelle altre. Caricherò in settimana un link alla prima parte del pdf globale, che sarà arricchita indicativamente a fine giugno, e completata (spero) entro il primo appello orale.
