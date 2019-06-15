@@ -1272,3 +1272,35 @@ MODELLO DI ISING<br/>
   desc: "L'interazione debole: cenni storici, decadimenti beta, violazione della parità
   <br/>Diap. 1-13 di 13.pdf"
   link: 
+- day: 5/6/2019
+  materia: infoquant
+  desc: "L'algoritmo di Shor + esempio di esecuzione"
+  link: http://bit.ly/2WJdd6x
+  note: "Immagini mancanti."
+- day: 6/6/2019
+  materia: infoquant
+  desc: "Phase estimation algorithm e Quantum Error Correction"
+  link: http://bit.ly/2MOH5Ki
+  note: "Immagini mancanti."
+- day: 12/6/2019
+  materia: infoquant
+  desc: "Teoria delle perturbazioni dipendenti dal tempo, Fermi Golden Rule. Cenni di implementazioni hardware
+   di computer quantistici: ioni intrappolati e circuiti superconduttivi."
+  link: http://bit.ly/2RjLcfL
+  note: "Immagini mancanti"
+- day: 28/5/2019
+  materia: nucleare
+  desc: "[MISSING - Non ero a lezione]"
+- day: 3/6/2019
+  materia: nucleare
+  desc: "Oscillazioni di flavor per mesoni neutri (strangeness oscillations). Violazione della simmetria CP - setup dell'esperimento, conseguenze sull'asimmetria materia-antimateria. <br/>
+  15.pdf diap. 1-18"
+  link: http://bit.ly/2KR7vs3
+- day: 4/6/2019
+  materia: nucleare
+  desc: "Il bosone di Higgs: cos'è e da dove deriva. Informazioni sull'esperimento che l'ha rivelato. Introduzione al neutrino."
+  link: http://bit.ly/2ZxdSFj
+- day: 5/6/2019
+  materia: nucleare
+  desc: "Neutrini: oscillazione, gerarchia di massa, frontiere inesplorate."
+  link: http://bit.ly/2MS0NEW

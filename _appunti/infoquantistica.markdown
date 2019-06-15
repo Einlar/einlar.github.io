@@ -13,4 +13,4 @@ order: 10
 Appunti del corso di Introduzione alla Teoria Quantistica dell'Informazione (III anno, 2018/9).<br/>
 Prof. Montangero.<br/>
 
-**Aggiornamento 30/5** Conto di caricare le ultime lezioni non appena possibile, ed editare eventuali informazioni mancanti/errori segnalati nelle altre. Caricherò in settimana un link alla prima parte del pdf globale, che sarà arricchita indicativamente a fine giugno, e completata (spero) entro il primo appello orale.
+**Aggiornamento 15/6** Inseriti gli appunti delle ultime lezioni (mancano delle immagini). La revisione finale di tutto è posticipata a fine giugno-inizio luglio (con l'obiettivo di completarla in anticipo rispetto al primo orale). Trovate una prima versione (con le prime 6 lezioni) [cliccando qui](http://bit.ly/2FdKo7v "InfoQuant-PDF"). A fine giugno saranno anche caricati appunti sulle esperienze di laboratorio (che possono essere richieste all'esame). La parte affrontata dal prof. Zanardi non è richiesta - ma se avete bisogno di quegli appunti mandatemi una mail.
