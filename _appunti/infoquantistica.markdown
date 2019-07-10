@@ -13,4 +13,7 @@ order: 10
 Appunti del corso di Introduzione alla Teoria Quantistica dell'Informazione (III anno, 2018/9).<br/>
 Prof. Montangero.<br/>
 
-**Aggiornamento 15/6** Inseriti gli appunti delle ultime lezioni (mancano delle immagini). La revisione finale di tutto è posticipata a fine giugno-inizio luglio (con l'obiettivo di completarla in anticipo rispetto al primo orale). Trovate una prima versione (con le prime 6 lezioni) [cliccando qui](http://bit.ly/2FdKo7v "InfoQuant-PDF"). A fine giugno saranno anche caricati appunti sulle esperienze di laboratorio (che possono essere richieste all'esame). La parte affrontata dal prof. Zanardi non è richiesta - ma se avete bisogno di quegli appunti mandatemi una mail.
+**Aggiornamento 10/7** Ho revisionato tutti gli appunti, organizzandoli in un pdf unico disponibile [cliccando qui](http://bit.ly/2Jzbibo "InfoQuant-PDF"). Il pdf contiene anche le note riguardanti la seconda esperienza di laboratorio (sono in fondo alla sezione sulle disuguaglianze di Bell). Per la prima vi sono le [diapositive ufficiali](http://bit.ly/2XXmasK "Diapositive prima esperienza").
+Potete infine trovare appunti sulle lezioni di Zanardi [qui](http://bit.ly/2XE0ePk  "Lezioni Zanardi").<br/>
+Nelle note vi possono essere errori, anche se ora dovrebbero essere principalmente stonature di notazione (es. indici sbagliati). Se ne trovate, anche di particolarmente insignificanti, vi prego di segnalarmeli: un modo comodo per farlo è scaricare il pdf e aggiungere commenti nei punti incriminati con un'applicazione come Acrobat Reader, per poi salvare e inviarmi via mail il file.<br/>
+Inoltre sono disponibile a risolvere qualsiasi dubbio (tempo permettendo) :)
