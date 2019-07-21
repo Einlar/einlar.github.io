@@ -1,6 +1,6 @@
 ---
-title: Novità
-subtitle: Aggiunto il supporto al LaTeX!
+title: Appunti Fisica
+subtitle: L'elenco completo
 layout: post
 date:   2018-10-06 01:45:00 +0200
 categories: welcome
@@ -21,7 +21,7 @@ Alcune prove d'esame svolte (nel dettaglio) sono disponibili [qui](https://drive
 In entrambi i casi i sorgenti in Latex sono linkati nella prima pagina del pdf. Se necessario posso rendere disponibile un link all'Overleaf per modificare il codice.
 
 ##Appunti vari
-Inserisco qui sotto tutte le risorse che, tra una cosa e l'altra, ho ricontrollato poco - e che quindi possono ($$p\\to 1$$) contenere buchi e/o errori. Fate attenzione!
+Inserisco qui sotto tutte le risorse che, tra una cosa e l'altra, ho ricontrollato poco - e che quindi possono contenere buchi e/o errori. Fate attenzione!
 1. *Fisica moderna*: [Relatività](http://bit.ly/2AaLcYL), [Meccanica Quantistica](http://bit.ly/2Cf1qS8), [Formulario](http://bit.ly/2PFH8EY). Per il sorgente seguire il link al punto 3.
 2. [Fisica 2](https://drive.google.com/drive/folders/15P5iLDF_fj9O61y0msCCrSFhgJhQ5Py7?usp=sharing). Mancano alcuni argomenti (es. effetto Doppler), e vi sono errori (molti dei quali mi sono stati segnalati, ma non ho avuto tempo di correggerli). Nel formulario mancano formule (es. interferenze/diffrazione).
 3. [Varie cose](https://drive.google.com/open?id=1kTCcJ0Cg8arRkieBUf_iFGhZooRvMVZm). Qui ho raccolto diversi appunti sfusi, in formato di Flashcards (foglietti con definizioni utili per ripetere velocemente), per Fisica 1-2, Analisi 2-3. Inoltre vi sono dei sorgenti (Fisica moderna e il formulario di Fisica 2), e le *Domande del compitino di spettroscopia* (Laboratorio del terzo anno). C'è anche qualche appunto sulla prova pratica di elettronica del corso di Sperimentazioni 2. Insomma, un gran mistone.
