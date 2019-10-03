@@ -1304,3 +1304,7 @@ MODELLO DI ISING<br/>
   materia: nucleare
   desc: "Neutrini: oscillazione, gerarchia di massa, frontiere inesplorate."
   link: http://bit.ly/2MS0NEW
+- day: 3/10/2019
+  materia: models
+  desc: "The diffusion equation: introduction and origin. The continuity equation, and Fick's law. Examples."
+  link: 

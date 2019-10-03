@@ -7,7 +7,7 @@ categories: appunti
 tabella: true
 materia: fisteo
 icon: fa-drafting-compass
-order: 1
+order: 2
 ---
 Appunti della parte di Meccanica Quantistica del corso di Istituzioni di Fisica Teorica (III anno, 2018/9).<br/>
 Prof. P. Marchetti.
