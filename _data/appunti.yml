@@ -1308,3 +1308,8 @@ MODELLO DI ISING<br/>
   materia: models
   desc: "The diffusion equation: introduction and origin. The continuity equation, and Fick's law. Examples."
   link: http://bit.ly/2oFw56h
+- day: 3/10/2019
+  materia: universe
+  desc: "The cosmological principle, the Robertson-Walker metric for a comoving observer, the meaning of the curvature parameter. Friedmann equations, the Hubble parameter,
+  and the measure of k via the universe's energy density."
+  link: http://bit.ly/2Vi5LeQ
