@@ -1313,3 +1313,19 @@ MODELLO DI ISING<br/>
   desc: "The cosmological principle, the Robertson-Walker metric for a comoving observer, the meaning of the curvature parameter. Friedmann equations, the Hubble parameter,
   and the measure of k via the universe's energy density."
   link: http://bit.ly/2Vi5LeQ
+- day: 4/10/2019
+  materia: universe
+  desc: "The $$\\Omega_0$$ parameter: techniques for estimation. The missing matter problem: evidence for dark matter in spiral/elliptic galaxies.
+   Dark energy. Introduction to the Hubble Law and its derivation."
+  link: http://bit.ly/2IrTUFH
+- day: 3/10/2019
+  materia: gr
+  desc: "Special relativity review - part 1. Inertial frames of reference, Lorentz boosts, invariant four-distance, null/time-like/space-like event separation,
+  spacetime diagrams, proper time & time dilation, Lorentz boosts inversion, Lorentz boosts as abstract rotations"
+  link: http://bit.ly/2OlZygk
+- day: 4/10/2019
+  materia: gr
+  desc: "Special relativity review - part 2. Relativity of simultaneity. Length contraction. Velocity addition.
+  Introduction to a more general mathematical framework: four-vectors, distance and metric (Minkowski + inverse), Einstein's summation notation.
+  Simpler notation for Lorentz boosts. Rising and lowering of the indices: covariant/contravariant vectors, tensors."
+  link: http://bit.ly/2oPYUgy
