@@ -1329,3 +1329,15 @@ MODELLO DI ISING<br/>
   Introduction to a more general mathematical framework: four-vectors, distance and metric (Minkowski + inverse), Einstein's summation notation.
   Simpler notation for Lorentz boosts. Rising and lowering of the indices: covariant/contravariant vectors, tensors."
   link: http://bit.ly/2oPYUgy
+- day: 7/10/2019
+  materia: models
+  desc: "Missing"
+  note: "Needs some work, will be updated by next week"
+- day: 8/10/2019
+  materia: ml
+  desc: "Basics of Machine Learning: main elements (training samples, predictor, loss for a binary classifier). Overfitting: the probably approximately correct learning framework."
+  link: http://bit.ly/2IBm29w
+- day: 8/10/2019
+  materia: management
+  desc: "Introduction to parallel computing: main differences and architectures. ASICs vs FPGAs."
+  link: http://bit.ly/2LYnvso
