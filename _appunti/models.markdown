@@ -6,7 +6,7 @@ date:   2019-10-02 21:36:09 +0200
 categories: appunti
 tabella: true
 materia: models
-icon: fa-abacus
+icon: fa-book
 order: 1
 ---
 
