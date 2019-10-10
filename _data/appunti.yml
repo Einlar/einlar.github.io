@@ -1341,3 +1341,15 @@ MODELLO DI ISING<br/>
   materia: management
   desc: "Introduction to parallel computing: main differences and architectures. ASICs vs FPGAs."
   link: http://bit.ly/2LYnvso
+- day: 9/10/2019
+  materia: management
+  desc: "Introduction to digital circuits: history, the role of transistors and ICs. Analysis of MOSFTET behaviour. Analog vs Digital."
+  link: http://bit.ly/2nDlvN6
+- day: 9/10/2019
+  materia: ml
+  desc: "Proof of the theorem introduced in the previous lecture. PAC learnability. Generalization: stochastic learner, drop the realizability assumption. PAC agnostic learner."
+  link: http://bit.ly/2AWyD2M
+- day: 10/10/2019
+  materia: models
+  desc: "Gaussian integrals: main formulas. Gaussian expectation values of polynomials. Wick's theorem. Steepest Descent Integrals. Exercises for the exam."
+  link: http://bit.ly/30XubeI
