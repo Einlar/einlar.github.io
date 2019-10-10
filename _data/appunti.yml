@@ -1340,7 +1340,7 @@ MODELLO DI ISING<br/>
 - day: 8/10/2019
   materia: management
   desc: "Introduction to parallel computing: main differences and architectures. ASICs vs FPGAs."
-  link: http://bit.ly/2LYnvso
+  link: http://bit.ly/35ohX2d
 - day: 9/10/2019
   materia: management
   desc: "Introduction to digital circuits: history, the role of transistors and ICs. Analysis of MOSFTET behaviour. Analog vs Digital."
@@ -1353,3 +1353,7 @@ MODELLO DI ISING<br/>
   materia: models
   desc: "Gaussian integrals: main formulas. Gaussian expectation values of polynomials. Wick's theorem. Steepest Descent Integrals. Exercises for the exam."
   link: http://bit.ly/30XubeI
+- day: 10/10/2019
+  materia: gr
+  desc: "Example use for the tensor notation: Maxwell's equations in manifestly covariant form (not required for exam). 4-velocity for a massive particle, energy-momentum 4-vector. Newton's first law in SR. The variational principle: the worldline of a free particle in SR minimizes proper time (with proof). 4-velocity and energy-momentum for massless particles. The Doppler Effect."
+  link: http://bit.ly/324VxAT
