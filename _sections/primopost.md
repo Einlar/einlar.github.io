@@ -17,6 +17,7 @@ Le risorse qui elencate sono quelle che reputo più _complete_ e potenzialmente 
 1.  [Fisica teorica](https://drive.google.com/open?id=1q0yrQNs-9_2EH3r6irQlpMr8MoiWNe-C) (Meccanica Quantistica) <br/> 
 Alcune prove d'esame svolte (nel dettaglio) sono disponibili [qui](https://drive.google.com/open?id=1ZLbKK-93zoVEQzkp1MLd4Vyc5ZxRDiyx), mentre i testi sono riordinati per anno e presenza o meno di soluzioni [qui](https://drive.google.com/open?id=12AV0nRdaeDvKLF-Zq0mhQvUEMqn6DKbL).
 2. [Teoria dell'informazione quantistica](https://drive.google.com/open?id=1AFjHJZqn9P_cYYHNMwQrlpZudnniUK7K). Ci sono anche degli [appunti di complementi](http://bit.ly/2XE0ePk) (lezioni del prof. Zanardi), che però non sono controllati.
+3. [Fluidodinamica](https://drive.google.com/a/studenti.unipd.it/file/d/1D9tGuWKBWjpI32rkzCjQJi8UQxlEHLZW/view?usp=drive_web), a cura di Erika Socal (AA 2019/20). 
 
 In entrambi i casi i sorgenti in Latex sono linkati nella prima pagina del pdf. Se necessario posso rendere disponibile un link all'Overleaf per modificare il codice.
 
