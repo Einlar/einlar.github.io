@@ -11,4 +11,4 @@ order: 1
 ---
 
 Appunti del corso di Fluidodinamica, tenuto dal Prof. Giampaolo Mistura (secondo semestre, III anno, 2019/20), a cura di Erika Socal.
-Il pdf completo è disponibile a questo indirizzo: [click](https://drive.google.com/a/studenti.unipd.it/file/d/1D9tGuWKBWjpI32rkzCjQJi8UQxlEHLZW/view?usp=drive_web).
+Il pdf completo è disponibile a questo indirizzo: [click](https://mega.nz/file/lkB0CA7Y#b7lKOl7F6BELyqDZ1ITuFB7v_4VO6Q40dd_vkIMzbwQ).
