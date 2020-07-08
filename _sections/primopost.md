@@ -19,7 +19,7 @@ Alcune prove d'esame svolte (nel dettaglio) sono disponibili [qui](https://drive
 2. [Teoria dell'informazione quantistica](https://drive.google.com/open?id=1AFjHJZqn9P_cYYHNMwQrlpZudnniUK7K). Ci sono anche degli [appunti di complementi](http://bit.ly/2XE0ePk) (lezioni del prof. Zanardi), che però non sono controllati.
 3. [Fluidodinamica](https://mega.nz/file/lkB0CA7Y#b7lKOl7F6BELyqDZ1ITuFB7v_4VO6Q40dd_vkIMzbwQ), a cura di Erika Socal (AA 2019/20). 
 
-In entrambi i casi i sorgenti in Latex sono linkati nella prima pagina del pdf. Se necessario posso rendere disponibile un link all'Overleaf per modificare il codice.
+Per i primi due, i sorgenti in Latex sono linkati nella prima pagina del pdf. Se necessario posso rendere disponibile un link all'Overleaf per modificare il codice. In ogni caso, gli appunti possono includere errori e/o punti mancanti, e perciò non sono da intendersi come un sostituto ai rispettivi corsi, ma solo come una risorsa in più che può essere utile.
 
 <h2>Appunti vari</h2>
 Inserisco qui sotto tutte le risorse che, tra una cosa e l'altra, ho ricontrollato poco - e che quindi possono contenere buchi e/o errori. Fate attenzione!
